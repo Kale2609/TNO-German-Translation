@@ -1,0 +1,52 @@
+﻿l_german:
+
+ ## Country Names ##
+ ADY_fascism:0 "Adygea"
+ ADY_fascism_DEF:0 "Adygea"
+ ADY_progressivism:0 "Adygea"
+ ADY_progressivism_DEF:0 "Adygea"
+ ADY_liberalism:0 "Adygea"
+ ADY_liberalism_DEF:0 "Adygea"
+ ADY_conservatism:0 "Adygea"
+ ADY_conservatism_DEF:0 "Adygea"
+ ADY_paternalism:0 "Adygea"
+ ADY_paternalism_DEF:0 "Adygea"
+ ADY_despotism:0 "Vizekönigreich von Khundzia"
+ ADY_despotism_DEF:0 "Vizekönigreich von Circassia"
+ ADY_communist:0 "Adygea"
+ ADY_communist_DEF:0 "Adygea"
+ ADY_socialist:0 "Adygeanische Republik"
+ ADY_socialist_DEF:0 "Adygeanische Republik"
+ ADY_national_socialism:0 "GK. Dagestan"
+ ADY_national_socialism_DEF:0 "Generalkommissariat Tscherkessen"
+ ADY_ultranationalism:0 "Adygea"
+ ADY_ultranationalism_DEF:0 "Adygea"
+ 
+ ADY_fascism_ADJ:0 "Adygean"
+ ADY_progressivism_ADJ:0 "Adygeanisch"
+ ADY_liberalism_ADJ:0 "Adygeanisch"
+ ADY_conservatism_ADJ:0 "Adygeanisch"
+ ADY_paternalism_ADJ:0 "Adygeanisch"
+ ADY_communist_ADJ:0 "Adygeanisch"
+ ADY_despotism_ADJ:0 "Circassisch"
+ ADY_socialist_ADJ:0 "Adygeanisch"
+ ADY_ultranationalism_ADJ:0 "Adygeanisch"
+ ADY_national_socialism_ADJ:0 "Tscherkessisch"
+ ## Party Names ##
+ 
+ ## Characters ##
+ ADY_Lyubov_Lysenko:0 "Lyubov Lysenko"
+ ADY_Boris_Galushkin:0 "Boris Galushkin"
+ ADY_Pyotr_Stepanenko:0 "Pyotr Stepanenko"
+ ## Ideas ##
+
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Leader Bios ##
+ POLITICS_LYUBOV_LYSENKO_DESC:0 "Leid ist Lyubov Kirillovna Lysenko nicht fremd. Als die Trommeln des Krieges erklangen und die Deutschen am Horizont auftauchten, wurden ihr Vater, ihr Bruder und ihr Ehemann alle eingezogen, um ihrem Vaterland in der Roten Armee zu dienen. Keiner von ihnen würde jemals zurückkehren. Die Nazi-Besatzer trieben sie und alle anderen in ihrer Heimatstadt zusammen und zwangen sie, mit primitiven Werkzeugen, anstrengenden Arbeitszeiten und ohne Sicherheitsstandards beim Graben eines Stausees entlang des Kuban-Flusses zu helfen. Sie verlor in diesen Jahren viele ihrer Freunde, aber Lyubov blieb hartnäckig. Als der Stausee fertiggestellt war, wurden die überlebenden Arbeiter in verschiedene Ausbeutungsbetriebe und Minen am Schwarzen Meer umgesiedelt. Lyubov wurde von den sadistischen Wärtern häufig geschlagen und ausgehungert, aber sie blieb hartnäckig. Im Laufe der Jahre hatte sie sich den Ruf einer Überlebenskünstlerin erarbeitet. Manche fanden es sogar inspirierend.\n\nAls der Reichskommissar starb und die Wachen auf der Flucht waren, nutzten die Arbeiter in den Lagern und Minen ihre Chance und erhoben sich. Sie versammelten sich um die Gefangenen, die sie am meisten verehrten. Einige waren Kriegshelden, einige waren Priester, einige waren inspirierende Politiker und einige waren einfache Bauern, die für ihre innere Stärke bewundert wurden. Lysenko fand bald Tausende von Menschen, bunt zusammengewürfelte Überlebende wie sie, die sie um Rat und Hilfe baten. Und wie jede andere Last, die ihr in ihrem Leben auferlegt wird, schwört Lysenko, dass sie wie immer durchhalten wird."
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##

@@ -1,0 +1,44 @@
+﻿l_german:
+ 
+ ## Country Names ##
+ ALB_communist:0 "Albanien"
+ ALB_communist_DEF:0 "die Volksrepublik Albanien"
+ ALB_communist_ADJ:0 "Albanisch"
+ ALB_socialist:0 "Albanien"
+ ALB_socialist_DEF:0 "die Volksrepublik Albanien"
+ ALB_socialist_ADJ:0 "Albanisch"
+ ALB_conservatism:0 "Albanien"
+ ALB_conservatism_DEF:0 "die Republik Albanien"
+ ALB_conservatism_ADJ:0 "Albanisch"
+ ALB_paternalism:0 "Albanien"
+ ALB_paternalism_DEF:0 "das Königreich Albanien"
+ ALB_paternalism_ADJ:0 "Albanisch"
+ 
+ ## Party Names ##
+ ALB_communist_party:0 "PKSH"
+ ALB_communist_party_long:0 "Partia Komuniste e Shqipërisë"
+ ALB_socialist_party:0 "PKSH"
+ ALB_socialist_party_long:0 "Partia Komuniste e Shqipërisë"
+ ALB_conservatism_party:0 "Republikanische Partisanen"
+ ALB_conservatism_party_long:0 "Republikanische Partisanen"
+ ALB_paternalism_party:0 "Royalistische Partisanen"
+ ALB_paternalism_party_long:0 "Royalistische Partisanen"
+
+ ## Country Leaders ##
+ ALB_Koci_Xoxe:0 "Koçi Xoxe"
+ 
+ ## Ministers ##
+ ALB_Enver_Hoxha:0 "Enver Hoxha"
+    
+ ## Ideas ##
+
+ ## Decisions ##
+ 
+ ## Tooltips ##
+ 
+ ## Leader Bios ##
+ POLITICS_ENVER_HOXHA_DESC:0 ""
+ 
+ ## Focus Tree ##
+ 
+ ## Events ##

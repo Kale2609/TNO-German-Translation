@@ -1,0 +1,446 @@
+﻿l_german:
+
+### Leader Descs ###
+ POLITICS_SIEGFRIED_MULLER_DESC:0 "Reichskommissar Siegfried Müller ist einer der beliebtesten Medienlieblinge des Reiches: frech, charmant und magnetisch. Er ist der charismatische Leiter des Reichskommissariats Zentralafrika und der reichste der drei Afrika-Gouverneure des Reichs. Als hervorragender Veteran Polens, Frankreichs und Russlands führt Müller Zentralafrika als einzige Kolonie, die beständig einen Gewinn für Deutschland abwirft, anstatt regelmäßig Beinahe-Vergehen wie Gewinnabschöpfung oder Abzocke des Reichs zu begehen. Seine Herangehensweise an die Verwaltung Zentralafrikas wird wohlwollend als "Laissez-faire" beschrieben, und lieblos als "fast völliges Nichteinmischen": Er begnügt sich damit, dass ausländische Unternehmen den Kongo nach allen Regeln der Kunst ausplündern, während die Kassen Zentralafrikas mit den Gewinnen aus den Schifffahrtszöllen gefüllt werden. Währenddessen vertrödeln Müllers deutsche Männer ihre Dienstzeiten, indem sie sich besaufen, alles jagen, was sich bewegt, alles vögeln, was einen Rock trägt, und ihre Gehaltsschecks verspielen. Das heißt, wenn sie sich nicht gerade als Söldner an die anderen Reichskommissare und an jeden, ob Ausländer oder Deutscher - das spielt keine Rolle - verkaufen, der bereit ist, für billige Muskeln zu zahlen.\n\nMüllers große Leidenschaft ist die Jagd, er unternimmt regelmäßig lange Ausflüge in den dunkelsten Busch, um alle Arten von afrikanischem Großwild zu jagen, und wenn er über Partisanen stolpert, dann wird das zur Gelegenheit, das gefährlichste Wild von allen zu jagen..."
+ POLITICS_HANS_HUTTIG_DESC:0 "Im ganzen Reich gibt es nur wenige Namen, die so aufrüttelnd sind wie Reichskommissar Hans Hüttig. Hüttig, der während des Krieges als Kommandant brutaler Vernichtungslager fungierte, hat sich der rücksichtslosen Umsetzung der nationalsozialistischen Tradition in Ostafrika verschrieben. In den labyrinthischen Lagern für afrikanische Sklaven und in den wuchernden Schwaden aufständischer Stämme gilt er als ein bösartiges Rätsel des Nazi-Grauens und als Mathematiker des Verderbens. Hüttig selbst zieht es vor, sich als den einzigen Deutschen in Afrika zu sehen, der die Wahrheit sieht: Afrika ist ein Kontinent mit einem Herzen voller Finsternis; und eine Faust aus Damaszenerstahl muss das untermenschliche Böse zermalmen.\n\nHüttigs eingeschworene Reichstreue, innenpolitische Brutalität und organisatorische Kompetenz hat sich immer wieder bewährt. Von der Sicherstellung einer effektiven, reinen Regierung, die nur Deutsche beschäftigt und sich weigert, afrikanische SS-Divisionen einzusetzen, bis hin zum ständigen Drill und den Kämpfen seiner Elitegarnison, die von der ehemaligen angloamerikanischen Bevölkerung Rhodesiens verstärkt wird, gleicht Hüttigs rigide und militaristische Gesellschaft eher einem riesigen Konzentrationslager als einer Kolonialbehörde. Doch während seine Mitgouverneure ihre Herrschaftsgebiete der Dekadenz und dem Verfall überlassen, werden sie als Stars für ihren Scheinwohlstand und unverdienten Reichtum angesehen.\n\ Im Gegenzug hegt Hüttig nichts als Verachtung für seine Kollegen, kommuniziert nur mit dem Reich und plant die unvermeidlichen Konflikte im Süden und Osten selbst. Den Titel, den ihm der Auslandsnachrichtendienst verliehen hat - der einzige Nazi in Afrika -, ficht er nicht an. Für ihn braucht Afrika niemanden sonst."
+ POLITICS_WOLFGANG_SCHENCK_DESC:0 "Wolfgang Schenck, einst eines der höchstdekorierten Kampfflieger-Asse des Reiches, verwaltet Südwestafrika aus der Luft. Im Vaterland ist er bekannt dafür, Hunderte von Kampfeinsätzen geflogen zu haben, und in der Luftwaffe zeichnet er sich durch seine Kompetenz bei der Entwicklung von Bombern aus. Im Inland jedoch steht er dem ärmsten Reichskommissariat Afrikas vor, das über keine industrielle Basis verfügt und auf Importe und Gasgebühren für seine Landebahnen angewiesen ist. Sein einziges Augenmerk gilt der aufstrebenden Luftwaffe des Landes, wie jeder sehen kann, der jemals einen Blick über den angolanischen Horizont geworfen hat. Seine Flugzeuge beherrschen den Himmel über Subsahara-Afrika. Über die Jahre hat Schenck dafür gesorgt, dass Südwestafrika das Luftdrehkreuz von Deutsch-Afrika ist. In anderen internen Angelegenheiten ist er für seine Nachsicht und die enge Kameradschaft mit seinem Kollegen Reichskommissar Siegfried Müller bekannt, mit dem er oft Safaris in seinen persönlichen Hubschraubern unternimmt oder sich an der Jagd beteiligt. Vielleicht ist es der Schutz der troposphärischen Wolken, weit weg von den Angelegenheiten der Eingeborenen oder der SS, der ihn in die Lüfte lockt. Dort findet er Trost."
+
+ # Deprecated with UA
+ #POLITICS_EMIL_MAURICE_DESC:0 "An einem bestimmten Morgen umzingelte eine Gruppe von Demonstranten das Büro von Reichskommissar Emil Maurice und forderte eine Grundversorgung und zumindest eine gewisse Achtung der Menschenrechte. In den meisten anderen Reichskommissariaten würden diese Proteste mit einer Salve aus offenem Feuer und einer raschen Säuberung und Verweigerung jeglicher Aktivitäten gegen den Staat beantwortet werden. Als Maurice jedoch aufwachte und die rhythmischen Rufe des Dissenses hörte, war seine einzige Handlung eine sanfte Bitte, die Vorhänge zu schließen. Das Geschrei verstummte bald, nachdem das Gebäude völlig still lag.\n\nEinmal Chauffeur und persönlicher Favorit von Adolf Hitler, scheint sich die unausweichliche, lähmende Apathie in Maurice zu manifestieren, nachdem er in den fünfziger Jahren das Reich verlassen hatte, um Madagaskar zu beaufsichtigen, eine Ernennung durch den Führer inmitten von Anschuldigungen der SS, dass er eindeutig nicht-arische Elemente in seinem rassischen Erbe habe. Vor die Wahl gestellt, entweder diese Elemente zu untersuchen oder ins Exil zu gehen, entschied er sich für das Letztere. Seit seiner Ankunft in Toamasina hat sich Maurice wenig oder gar nicht um die inneren Angelegenheiten der Kolonie gekümmert, ist Treffen ferngeblieben und hat die Schreie derjenigen ignoriert, die seinen Kopf überall auf der Insel haben wollten. Unzählige Male hat er Bitten um Rückkehr in das einzige Land, das er je geliebt hat, abgeschickt, die allesamt ignoriert wurden.\n\Die Aussichten sind für Maurice nur noch nihilistischer geworden, da der organisierte Widerstand stärker wird und einheimische madagassische Milizen im zentralen Hochland Fuß fassen, während sich die Militaristen weiterhin von der Verwaltung entfremden. Denjenigen, die noch loyal sind, ist klar, dass ein bewaffneter Konflikt bevorsteht, doch Maurice kann nur Gleichgültigkeit zeigen. Er träumt nur vom Exil. Er hat vielleicht dazu beigetragen, dieses riesige Haus zu errichten, aber alles, was er sich wünscht, ist, ihm zu entkommen. Vom Bösen befreit zu werden."
+
+###EVENTS
+ GERAF.2.t:0 "Die Lebensader Wird Gekappt"
+ GERAF.2.desc:0 "Die Nachricht vom Bürgerkrieg in Deutschland schockierte die Welt und versetzte so manchen Politiker in Aufregung, aber keinen mehr als Deutschlands treue Vasallen in Afrika.\n\nDa sich die Nationen angesichts der aufkommenden Kräfte des afrikanischen Nationalismus und des immer stärker werdenden kommunistischen Gedankenguts in den unterdrückten Völkern dort in ständiger Unruhe befanden, waren sie im Gegenzug zu den massiven kolonialen Ressourcen mehr und mehr auf die militärische und wirtschaftliche Unterstützung des Mutterlandes angewiesen.\n\nDa Deutschland jedoch in Flammen steht und die Zentralregierung sich scheinbar im Rauch aufgelöst hat, ist diese Unterstützung plötzlich verschwunden. Sklaven sind bereits aus ihren Kasernen verschwunden, und aufständische Gruppen haben im ganzen Kongo eine neue Angriffswelle gestartet."
+ GERAF.2.a:0 "Kein Grund zur... Panik, bleib ruhig, BLEIB RUHIG!"
+
+ GERAF.3.t:0 "Das Neue Zeitalter des Widerstands"
+ GERAF.3.desc:0 "Während sich die Lage in den afrikanischen Reichskommissariaten verschlechtert hat, konnten die verschiedenen Rebellen, die die Regime seit zwanzig Jahren bekämpfen, ihre bisher größten Erfolge verbuchen. Zahlreiche Militärposten und Plantagen in ganz Afrika sind verschwunden, da die Rebellen immer dreister zuschlagen, und Göringstadt ist überschwemmt mit panischen Flüchtlingen, da unabhängige Bauern und Siedler ihre Höfe im Zuge dieser neuen Invasion verlassen haben.\n\nDa die Rebellen das Land kontrollieren und sich die Schlinge um die zentralen Städte der Kolonien langsam zuzieht, ist es klar, dass die Tage der Reichskommissare gezählt sein könnten."
+ GERAF.3.a:0 "Was haben wir jemals getan um dies zu verdienen?!"
+
+ GERAF.4.t:0 "Afrika-Schild"
+ GERAF.4.desc:0 "Als die Situation außer Kontrolle geriet, wurden drastische Maßnahmen für das Überleben der deutschen Staaten in Afrika notwendig. Die drei Kolonien Ostafrika, Zentralafrika und Südwestafrika hatten zwar schon immer freundschaftliche Beziehungen unterhalten, aber ihre Interaktionen waren nie viel weiter gegangen, und sie hatten getrennte Sicherheitskräfte, Verwaltungen und Reichskommissare unterhalten. \n\nWährend diese Situation mit der zentralen Verwaltung in Germanien gut genug funktioniert hat, um die Kolonien zu verwalten, ist es nun, da diese Verwaltung scheinbar zerbrochen ist, klar, dass Maßnahmen ergriffen werden müssen.\n\nAfrika-Schild ist die vorgeschlagene Lösung, ein vereintes Verteidigungsbündnis und eine zentralisierte Militärverwaltung, das Bündnis könnte unsere einzige Chance sein, unsere Domänen vor dem völligen Zusammenbruch zu retten."
+ GERAF.4.a:0 "Einer für Alle und Alle für Einen!"
+ GERAF.4.b:0 "Wir schlagen uns allein schon sehr gut!"
+
+ GERAF.7.t:0 "Biete einen Waffenstillstand"
+ GERAF.7.desc:0 "Obwohl unsere tapferen Soldaten große Erfolge erzielt haben, hat sich dieser Krieg vielleicht zu lange hingezogen. Angesichts unserer derzeitigen Position im Krieg wäre es trivial, die Südafrikaner und ihre amerikanischen Verbündeten dazu zu bringen, einem Waffenstillstandsangebot zuzustimmen, natürlich zu unseren Bedingungen. Allerdings könnte es klug sein, weiterzumachen, da Endsieg immer näher zu rücken scheint"
+ GERAF.7.a:0 "Biete ihn"
+ GERAF.7.b:0 "Wir werden weitermachen!"
+
+# GERAF.7.t:0 "Die Südafrikaner lehnen ab" #duplicate loc key
+# GERAF.7.desc:0 "Es scheint, dass wir die Bereitschaft der Südafrikaner zu einem Deal unterschätzt haben, da sie geantwortet haben, dass sie nicht die Absicht haben, unserem großzügigen Waffenstillstandsangebot zuzustimmen. Das spielt natürlich keine Rolle, der Endsieg wird irgendwann über das Reich kommen" #duplicate loc key
+# GERAF.7.a:0 "So soll es sein" #duplicate loc key
+
+ GERAF.9.t:0 "Biete Waffenstillstand an"
+ GERAF.9.desc:0 "Da sich dieser Krieg immer länger hinzieht, haben einige unserer Berater begonnen, darauf zu drängen, den Südafrikanern und ihren amerikanischen Verbündeten ein Angebot für einen neutralen Waffenstillstand zu unterbreiten. Auch wenn wir früher vielleicht über solche Ideen gespottet haben, haben wir vielleicht bessere Dinge, über die wir uns Sorgen machen müssen. Andererseits könnte Endsieg gerade außer Reichweite sein"
+ GERAF.9.a:0 "Biete ihn"
+ GERAF.9.b:0 "Wir werden weitermachen!"
+
+ GERAF.10.t:0 "Biete Waffenstillstand an"
+ GERAF.10.desc:0 "Da wir durch den feindlichen Vormarsch von Tag zu Tag mehr Land verlieren, haben viele unserer Berater und sogar einige Kommandeure gefordert, dass wir den Südafrikanern und ihren amerikanischen Verbündeten einen Waffenstillstand anbieten. Obwohl wir durch einen solchen Waffenstillstand große Gebiete verlieren würden, würde sich dies auf lange Sicht vielleicht als die beste Vorgehensweise erweisen. Aber vielleicht ist das Einzige, was uns von Endsieg abhält, unser mangelnder Wille."
+ GERAF.10.a:0 "Biete ihn"
+ GERAF.10.b:0 "Wir werden weitermachen!"
+
+ GERAF.11.t:0 "Aktiviere Werwölfe"
+ GERAF.11.desc:0 "Während die Südafrikaner und ihre amerikanischen Herren immer weiter in unser Territorium vordringen, bietet sich uns eine einzigartige Gelegenheit. Wie in allen Reichskommissariaten üblich, haben wir eigene Einheiten aus Werwolf-Partisanenkämpfern aufgestellt, die hinter den feindlichen Linien für Chaos und Verwirrung sorgen werden. Wir werden sie für jeden Zentimeter Boden, den sie einnehmen, teuer bezahlen lassen."
+ GERAF.11.a:0 "Sie werden vom Schatten angreifen"
+
+ GERAF.12.t:0 "Werwölfe kehren zurück"
+ GERAF.12.desc:0 "Durch die Vertreibung der Eindringlinge aus unserem eigenen Territorium ist es uns gelungen, uns mit unseren Werwolfeinheiten zu verbinden. Obwohl viele angeschlagen und verletzt sind, erfüllen sie dennoch stoisch ihre Pflicht für das Vaterland. Sie verdienen Lob."
+ GERAF.12.a:0 "Ihr Dienst soll in Erinnerung bleiben."
+
+ GERAF.13.t:0 "Die Geloof Offensief"
+ GERAF.13.desc:0 "Unsere Militärkommandeure haben Pläne für eine mutige und überraschende Offensive mit dem Spitznamen „Die Geloof Offensive“ oder „Promise Day Offensive“ ausgearbeitet. Der Plan sieht vor, alle unsere tapferen Partisanen in zusammenhängenden Einheiten zusammenzufassen und zu organisieren. Sobald sie zusammengestellt sind, werden sie ab dem 16. Dezember für eine große Offensive eingesetzt. Wir hoffen, dass wir dadurch den Feind völlig überraschen, allerdings wird dadurch die Schlagkraft unserer Partisanen spürbar gemindert."
+ GERAF.13.a:0 "Führe den Plan aus!"
+ GERAF.13.b:0 "Wir würden dieses Risiko eher nicht eingehen"
+
+ GERAF.20.t:0 "Angriff auf Südafrika!"
+ GERAF.20.desc:0 "Obwohl sich Afrika-Schild als erfolgreich erwiesen hat und wir einige wenige Siege gegen die Rebellentruppen errungen haben, hat sich die Situation immer noch nicht erholt. Dennoch verlieren wir jeden Tag mehr Land an die verfluchten Partisanen.\n\nDie Lösung scheint in unsere Hände gefallen zu sein. Eine Invasion Südafrikas wurde in den letzten zwanzig Jahren ständig in verschiedenen Formen vorgeschlagen, und wir sind sogar so weit gegangen, mit Zustimmung und Unterstützung des Reiches einen stetigen Strom von Waffen und Waffen aufrechtzuerhalten und die Buren zu unterstützen, um ihnen dabei zu helfen ihr Kampf. Dies scheint endlich Früchte getragen zu haben, da sich die Lage in Südafrika ebenfalls verschlechterte und die Buren ihre Unabhängigkeit von der südafrikanischen Regierung erklärt haben.\n\nEs ist nicht sicher, ob ihre Rebellion große Früchte tragen wird, aber wenn wir sie unterstützen würden Wenn wir sie in ihrem Kampf unterstützen, könnten wir einen starken Verbündeten finden, der uns gegen unsere eigenen Aufständischen hilft. Die andere Befürchtung ist, dass das OFN höchstwahrscheinlich die südafrikanische Regierung unterstützen wird, wenn wir den Buren erlauben, sich den Wölfen zu stellen, und dann hätten wir unsere Feinde vor unserer Haustür. Amerika ist jedoch vorsichtig. Wenn wir uns den Buren anschließen würden, hätten die Yankees und ihre Haustiere zweifellos zu viel Angst vor einem Konflikt mit dem mächtigen Reich, als dass sie versuchen würden, die Ereignisse zu stoppen."
+ GERAF.20.a:0 "The Reich does not bow, it rules!"
+ GERAF.20.b:0 "Wir werden eine andere Lösung finden..."
+
+ GERAF.21.t:0 "Das Ende Des Krieges - Waffenstillstand!"
+ GERAF.21.desc:0 "Es ist vorbei. Die Amerikaner und das OFN haben sich als weitaus eifriger erwiesen, sich in einen weiteren Krieg zu stürzen, und trotz der Tapferkeit und Wildheit unserer kämpfenden Jungs hat der Verrat der örtlichen Partisanen unsere Kriegsanstrengungen sabotiert und letztendlich dazu geführt, dass wir unsere Ziele nicht erreicht haben. Das Einzige, was unsere völlige Kapitulation vor den Horden barbarischer Amerikaner und ihrer südafrikanischen Verbündeten verhinderte, war die Unterstützung aus dem Heimatland, das es kaum geschafft hatte, die Dinge wieder zum Stillstand zu bringen.\n\nDa Amerika scheinbar erschöpft war von der blutigen Nase unseres Vorgesetzten Wir haben das amerikanische Angebot eines Waffenstillstands angenommen, aber ihre kleinlichen Friedensangebote abgelehnt. Während dies den Reichskommissaren schaden wird, insbesondere der massive Landraub seitens des OFN, wird sich die Verkleinerung der Grenzen letztendlich vielleicht als eine gute Sache für unsere Sicherheit erweisen."
+ GERAF.21.a:0 "Frieden mit Ehren..."
+
+ GERAF.22.t:0 "Das Ende Des Krieges - Waffenstillstand!"
+ GERAF.22.desc:0 "Es scheint, dass die Südafrikaner und ihre amerikanischen Verbündeten genauso gelitten haben wie wir. Unser Angebot eines neutralen Waffenstillstands wurde angenommen. da sich herausstellte, dass Südafrika und Amerika nicht den Willen hatten, einen Krieg gegen unsere überlegene deutsche Taktik und Ausrüstung zu führen. Obwohl wir unter diesem Krieg schwer gelitten haben, kann das Gleiche auch von den Amerikanern gesagt werden, die jetzt mit einer wachsenden Friedensbewegung in ihrem Land konfrontiert sind.\n\nJetzt müssen wir unsere Aufmerksamkeit auf andere Dinge richten, während es uns gelungen ist, damit umzugehen Angesichts des bisher gestiegenen Widerstands ist es nie eine gute Idee, selbstgefällig zu werden."
+ GERAF.22.a:0 "Jetzt zu drängenden Angelegenheiten"
+
+ GERAF.23.t:0 "Das Ende Des Krieges - Waffenstillstand!"
+ GERAF.23.desc:0 "Als schließlich die Nachricht von der Annahme des Waffenstillstands durch die Südafrikaner in unserem Hauptquartier eintraf, ließen die Offiziere zur Feier besondere Kisten mit gereiftem Wein herbeibringen. Einmal mehr wird der ganzen Welt die Überlegenheit der deutschen Kriegsführung vor Augen geführt. Die Amerikaner, die gezwungen sind, vor unseren überlegenen Kräften zu fliehen, mit dem Schwanz im Rücken, kehren zu einer massiven Antikriegsbewegung zurück. Unser Sieg ist alles andere als vollständig.\n\nJetzt müssen wir unsere Aufmerksamkeit auf die Leitung und Beratung des neuen afrikanischen Volkstaats richten , um sicherzustellen, dass auch sie alle Vorteile einer überlegenen deutschen Verwaltung nutzen, und um sicherzustellen, dass sie sich darüber im Klaren sind, wie viel sie dem Reich schulden und dass sie verpflichtet sind, alles mit Zinsen zurückzuzahlen."
+ GERAF.23.a:0 "Ein weiterer Sieg für das Reich!"
+
+ GERAF.24.t:0 "Das Ende Des Krieges - Sieg!"
+ GERAF.24.desc:0 "Als die letzten Hubschrauber, die den Rest der amerikanischen Streitkräfte in Südafrika evakuieren, abfliegen, dämmert es den verbliebenen Südafrikanern endlich: Sie haben verloren. Mit diesem endgültigen Sieg ist die Vorherrschaft des Reiches über Afrika so gut wie gesichert. Die loyalen Buren sind gute Untertanen und verdienen es, den Großteil des südafrikanischen Landes zu erhalten. Natürlich wird es notwendig sein, dieser jungen Regierung bei ihren schwierigen Anfängen zu helfen, und wir werden unsere besten Berater in Fragen der Innenpolitik und des Handels zur Verfügung stellen. Wieder einmal wird die Überlegenheit des Reiches deutlich. Wenn nur diese Afrikaner die gleiche Lektion lernen würden, die wir gerade den Amerikanern beigebracht haben"
+ GERAF.24.a:0 "Die Überlegenheit des Reiches ist total!"
+
+ GERAF.26.t:0 "Deja Vu"
+ GERAF.26.d:0 "Nach unserem überwältigenden Sieg gegen die unzivilisierten Horden amerikanischer und südafrikanischer Soldaten zogen wir schnell in die Gebiete des ehemaligen Dominion von Südafrika ein. Unsere Wirtschaftsanalysten, die von Göring persönlich ausgebildet wurden, sagten voraus, dass die Befeuerung der Wirtschaft mit den Feuern des Krieges und die Ergänzung mit der Beute aus unseren neuen Eroberungen dafür sorgen würden, dass unsere zuvor eher zusammenbrechenden MP-Volkswirtschaften in ein massives Wachstum explodieren würden .\n\nDiese Ökonomen wurden heute erschossen, als die Nachricht, dass eine weitere Sklavenplantage von ANC-Widerstandskämpfern niedergebrannt wurde, das Hauptquartier von Afrika-Schild erreichte. Der vermeintliche „Reichtum Afrikas“, mit dem wir unsere Budgets retten sollten, ist mit der Evakuierung der südafrikanischen Regierung leider scheinbar verschwunden.\n\nDer Afrikaner Volkstaat, unser Klientelstaat, der das ehemalige Südafrika verwaltet, hat sich bewährt Es wird Ihnen nicht gelingen, die dort vorhandene wirtschaftliche Basis zu nutzen. Bald nach der Bildung ihrer Regierung zerfielen die verschiedenen Milizgruppen, aus denen die Burenarmee bestand und die sich einst gegen ihre gemeinsamen Feinde vereint hatten, in Cliquen, die sich um mächtige Generäle drehten. Der Hauptstreitpunkt zwischen ihnen war die Beziehung der Buren zu uns Afrikaans-Militärs erklären, dass sie sich weigern werden, vor einem Deutschen auf die Knie zu beugen, so wie sie es auch vor einem Anglo getan haben ... Während die Spannungen vorerst schlummern, werden sie nicht lange so bleiben\n\nObwohl sie unzivilisiert sein mögen , die Wildheit und das Können dieser afrikanischen Widerstandskämpfer sind unbestreitbar. Aber was uns wirklich im Stich lässt, ist die neu entdeckte Zusammenarbeit zwischen dem ANC und den wenigen noch aktiven Einheiten der südafrikanischen Schurkenarmee.\n\nWährend der ANC früher vielleicht als hoch motivierte, aber leicht ausgerüstete Truppe von Revolutionären beschrieben wurde, ist der zweite Teil Dieser Satz muss jetzt gestrichen werden, da sie Zugang zu militärischer Ausrüstung und Ausbildung haben. Es scheint, dass das angebliche „Wirtschaftswunder des Krieges“ nur eine Illusion war."
+ GERAF.26.a:0 "Verdammt noch mal!"
+
+ GERAF.27.t:0 "The Ides of March"
+ GERAF.27.d:0 "Mitten in der Nacht hebt auf einem abgelegenen Feld in der deutschen Kolonie Zentralafrika ein Flugzeug ab. Seine Besatzung wird niemals zurückkehren. Darin befindet sich der ehemalige Reichskommissar Siegfried Müller, er flieht vor dem scheinbaren Tod selbst. Wenige Stunden später landet das Flugzeug in Anjou, der Hauptstadt des freien Frankreichs. Dort wird Müller von seinem engsten Freund und neu ernannten Chef der Militärjunta, die jetzt das Freie Frankreich anführt, Jaques Massu, herzlich empfangen.\n\nEinige Tage zuvor lud Reichskommissar Hans Hüttig Müller und Reichskommissar Schenck aus Südwestafrika zu einem Treffen ein Feier ihres gemeinsamen Sieges über die amerikanischen Schweine. Schenck, der näher an Hüttigs Herrenhaus lag, kam zuerst an. Er würde nie zurückkehren. Müllers Spione hatten ihn erst wenige Stunden vor seiner Ankunft auf Hüttigs Anwesen gewarnt, dass Hans vorhatte, sie beide zu ermorden. Müller war nicht bereit, einen Krieg gegen die Elitetruppen unter dem Kommando von Hüttig zu führen, und beschloss, dass seine Zeit als Führer Zentralafrikas vorbei sei, und floh aus dem Land.\n\nJetzt ist Hans Hüttig die einzige verbliebene deutsche Autorität in der Region. der Schlächter Afrikas. Als er die Kontrolle über alle deutschen Kolonien in Afrika übernahm, kündigte er die Gründung des Großafrikanischen Reichsstaates an, einer neuen Regierung, die sicherstellen sollte, dass die richtigen Ideale des Nationalsozialismus in Afrika durchgesetzt würden.\n\nÜber den Reichsstaat gibt es kaum Neuigkeiten. Aber was dabei herauskommt, ist erschreckend. Ganze Regionen werden von Hurtings fanatischen SS-Soldaten „befriedet“. Kilometerlange Sklavenarbeitslager. Und ein absoluter Einsatz für die Ausrottung aller verbliebenen Reste des Widerstands in Afrika."
+ GERAF.27.a:0 "Für Hüttig!"
+
+ ###IDEAS
+ RK_Wervolf:0 "Werwolf!"
+ RK_Wervolf_desc:0 "Während die Südafrikaner und ihre Amerikanischen Herren tiefer in unser Territorium eindringen, werden sie erhöhten Widerstand von unseren Werwolf-Partisanen zu spüren bekommen!"
+
+ #opinion modifiers
+ COG_friends_in_homeland:0 "Freunde im Heimatland"
+ COG_our_friend_in_swiss:0 "Unsere Schweizer Freunde"
+ COG_antiafrica_plan:0 "Anti-Afrikaner-Plan"
+ COG_control_boers:0 "Kontrollieren der Buren"
+ COG_guns_for_boers:0 "Waffen für Buren"
+ COG_guns_for_saf:0 "Waffen für Südafrika"
+
+
+ #ideas
+ COG_cheap_labour_good:0 "Billige Arbeit"
+ COG_business_ties:0 "Geschäftsbindungen"
+ COG_state_leases:0 "Staatliche Pachtverträge"
+ COG_cheapest_labour:0 "Billigste Arbeit"
+ COG_for_the_company:0 "Für die Firma"
+ COG_the_plantation:0 "Die Plantage"
+ COG_anti_bandit:0 "Anti-Banditen Patrouillen"
+ COG_swiss_business:0 "Schweizer Geschäft"
+ COG_exportation:0 "Totaler Export"
+ COG_finest_goods:0 "Das Feinste der Waren"
+ COG_cheapest_prices:0 "Die Günstigsten Preise"
+ COG_Lobster_War:0 "Hummerkrieg"
+ COG_Lobster_War_desc:0 "Derzeit befinden wir uns in einem Konflikt mit den verblendeten Degenerierten Brasiliens über unser Recht, in ihren Gewässern zu fischen. Während sie unaufhörlich auf ihre "Rechte" nach "internationalem Recht" pochen, lachen wir, die Herrenrasse in Afrika, über ihre Anmaßungen, während unsere Unternehmen ihre Gewässer plündern. Das bringt uns große finanzielle und rufschädigende Vorteile, da deutsche Beamte und Militärs gerne unsere Meeresfrüchte essen.\n\n Wenn die Brasilianer jedoch beschließen, aufzustehen und auf ihre kostbaren "Rechte" zu pochen, könnten wir Probleme bekommen. Denn wenn wir uns das Vertragsrecht genau ansehen, haben wir außer der Macht des Reiches nicht wirklich einen Anspruch auf Fischfang in brasilianischen Gewässern."
+
+ #events
+ cog.1.t:0 "Unterstütze Zentralafrika!"
+ cog.1.d:0 "Zentralafrika needed to be supported economically and as the overlord we should help them with exactly that."
+ cog.1.a:0 "Helfe ihnen."
+ #####cog.1 need better loc#####
+ ######cog.2 - cog.14 is good loc and dont need edit######
+ cog.2.t:0 "Die Safari Winkt"
+ cog.2.d:0 "Die Safari. Die weiten, offenen Räume Afrikas, wo Millionen von Tieren und vielleicht auch einheimische Populationen frei umherstreifen. Jetzt, da wir auf uns allein gestellt sind, ist es höchste Zeit, dass wir unsere Wirtschaft stärken. Und wie sollen wir das tun? Indem wir alles jagen, was wir können. Schnappt euch eure Gewehre, Männer, wir gehen auf die Jagd!"
+ cog.2.a:0 "Die Jagd beginnt!"
+ cog.3.t:0 "Durch Den Djungel"
+ cog.3.d:0 "Die Männer waten durch den Dschungel und hacken mit Macheten auf Äste und Brombeersträucher ein. Der Schweiß rinnt ihnen den Körper hinunter, und sie kämpfen hilflos gegen die Mücken, die sie immer wieder und immer wieder beißen. Die Feuchtigkeit überwältigt sie, doch die Männer, tapfer wie sie sind, gehen weiter, ohne Wasser zu holen. Diese Expedition hat gerade erst begonnen, und sie werden sie jetzt nicht enden lassen."
+ cog.3.a:0 "Unsere tapferen Männer gehen weiter!"
+ cog.4.t:0 "Der Gorilla"
+ cog.4.d:0 "Die Männer bleiben wie erstarrt stehen. Sie erblicken in der Ferne eine riesige, schwerfällige Gestalt, die sich hinter einigen Büschen bewegt. Der Gorilla. Hochgeschätzt wegen seines Fleisches. Dies ist ein großartiger Fund. Die Männer bereiten sich auf die Jagd vor."
+ cog.4.a:0 "Ziele und Feuer!"
+ cog.5.t:0 "Der Große Büffel"
+ cog.5.d:0 "Der Große Büffel. Ein weiterer erstaunlicher Fund für das müde, aber ausdauernde Jagdteam. Wieder einmal ein großartiger Fund für Fleisch, das Tier selbst würde eine großartige Trophäe abgeben, die für Tausende in die Tasche der Wirtschaft gehen würde."
+ cog.5.a:0 "Bereitmachen, Anvisieren, Feuer!"
+ cog.6.t:0 "Entlang der Savanne"
+ cog.6.d:0 "Nachdem sie aus dem Dschungel entkommen sind, sind die Männer von der Feuchtigkeit befreit. Stattdessen quälen sie sich nun durch die weiten Ebenen Afrikas. Die Sonne brennt unablässig auf sie herab, ohne Pause, ohne Unterlass. Da es kaum Schatten gibt, müssen sich die Männer abrackern."
+ cog.6.a:0 "Die Expedition geht weiter!"
+ cog.7.t:0 "Der Kudu"
+ cog.7.d:0 "Anmutig bewegt sich der Kudu durch die Savanne und versteckt sich in den Gräsern, um sich vor Beute zu schützen. Die Männer wissen das und legen sich auf die Lauer für diese Kreaturen. Sie sind hinter den Hörnern, den Fellen und dem Fleisch her. Gutes Geld für die Regierung. Das Signal ist gegeben."
+ cog.7.a:0 "Feuer!"
+ cog.8.t:0 "Der Noble Löwe"
+ cog.8.d:0 "Aus der Ferne erblicken die Männer ein majestätisches Geschöpf. Der Löwe. Er liegt lässig auf der Seite, hechelt schwer von seiner kürzlichen Tötung und sieht verwundbar aus, um zu töten. Die Männer wissen, dass dies nicht einfach sein wird, aber sie richten ihre Schüsse aus und feuern."
+ cog.8.a:0 "Ein weiterer feiner Abschuss!"
+ cog.9.t:0 "Der Mächtige Elefant"
+ cog.9.d:0 "Die Männer sind um ein riesiges, schweres Geschöpf herum verteilt, das so grau ist wie ein stürmischer Himmel. Der Elefant. Massiv und schwerfällig, wissen sie, dass dies keine leichte Beute sein wird. Die Männer starren ihn ehrfürchtig an und warten auf das eine Signal zum Loslegen. Es kommt. Sie schießen."
+ cog.9.a:0 "Solch eine massive Kreatur!"
+ cog.10.t:0 "Der reichliche Topi"
+ cog.10.d:0 "In der Nähe des Wassers stehend, schaut sich der Topi nach einer Gefahr um, ohne zu wissen, was es sein könnte. Die Männer jedoch wissen, wonach sie suchen. Der Topi wird wegen seiner Hörner geschätzt und könnte eine große Hilfe für die Wirtschaft sein. Die Männer bereiten sich darauf vor, so viele zu jagen, wie sie können. Sie machen ihre Gewehre bereit."
+ cog.10.a:0 "Was eine erfolgreiche Jagd!"
+ cog.11.t:0 "Der Illusive Gepard"
+ cog.11.d:0 "Die Männer schleichen leise durch das hohe Gras. Sie wollen nicht, dass der Jäger zum Gejagten wird. Sie jagen den Geparden, den leisen Teufel, der er ist. Plötzlich muss einer der Männer niesen. Und noch plötzlicher springt etwas auf ihn zu. Einer der Männer macht sein Gewehr bereit und schießt."
+ cog.11.a:0 "Sie haben es nie auf sich zukommen sehen."
+ cog.12.t:0 "Das Gepanzerte Schnuppentier"
+ cog.12.d:0 "Das Panzerschuppentier ist eine Art aus der Familie der Ameisenbären. Es ist schuppig und riecht wie ein Stinktier. Die Männer sind wegen der Schuppen hinter ihm her, weigern sich aber, sich ihm zu nähern. Es geht aber um Geld, also bereiten sie sich auf die Jagd vor."
+ cog.12.a:0 "Stinkend aber profitabel."
+ cog.13.t:0 "Das Rote Flussschwein"
+ cog.13.d:0 "Der Red River Hog macht seinem Namen alle Ehre: Er ist sehr rot. Auffallend rot. Das Fell ist wunderschön und würde dem Land zweifelsohne viel Geld einbringen. Die Männer sind bereit, den Pelz während der Jagd zu schützen. Es ist zu schön, um ruiniert zu werden."
+ cog.13.a:0 "Schützt das Fell!"
+ cog.14.t:0 "Die Majestätische Giraffe"
+ cog.14.d:0 "Die Giraffe. So majestätisch. Mit ihrem langen Hals lehnt sich die massige Kreatur an einen Baum und beißt langsam in die Blätter der Bäume. Die Männer, die sich von der Größe der Kreatur nicht einmal stören lassen, schauen sie ehrfürchtig an. Dann kommt das Signal. Die Jagd ist eröffnet."
+ cog.14.a:0 "Wahrlich eine majestätische Figur!"
+ ######################## all below need loc or improved loc, titles are fine unless panzer says otherwise ########################
+ cog.15.t:0 "Jagd mit Schenck"
+ cog.15.d:0 "Schenck und Müller treffen sich, Müller bietet an, auf eine Jagd durch den Kongo zu gehen, Müller kann dieses Angebot nicht ablehnen und sie gehen auf die Jagd."
+ cog.15.a:0 "Auf gehts."
+ cog.16.t:0 "Die Jagdwesen"
+ cog.16.d:0 "Schenck und Müller gingen gemeinsam auf die Jagd, und zwar per Hubschrauber, was nicht die beste Idee war. Schenck hat sich dabei sehr unwohl gefühlt."
+ cog.16.a:0 "Wir sollten ihm vom Helikopter runternehmen."
+ cog.17.t:0 "Hol Ihn Raus"
+ cog.17.d:0 "Nachdem die Jagd im Hubschrauber begonnen hatte, begann Schenck sich unwohl zu fühlen, er bat immer wieder darum, die Jagd zu verlassen und nach Hause zu gehen, aber Müller sagte immer, er sei es leid, zu fragen, als er fast aus dem Hubschrauber fiel und Müller anschrie, er solle ihn runterlassen, sonst werde es Konsequenzen haben."
+ cog.17.a:0 "Hol Ihn schnell raus."
+ cog.18.t:0 "Frage Hans Um Begleitung"
+ cog.18.d:0 "Wir sollten Reichskommissar Hans Hüttig bitten, zu unserer kleinen Jagd zu kommen."
+ cog.18.a:0 "Frage ihn."
+ cog.19.t:0 "Müller lädt uns zu einer Jagd ein"
+ cog.19.d:0 "Reichskommissar Sigfreid Müller bittet uns, mit ihm auf die Jagd zu gehen, wir haben von Schenck gehört, dass seine Jagd furchtbar war und wir haben eher mit Problemen zu kämpfen, als auf eine dumme Jagd zu gehen."
+ cog.19.a:0 "Sage ihm nein."
+ cog.20.t:0 "Hans Lehnt Ab"
+ cog.20.noafricanwar:0 "Hans Hüttig hat unser Angebot, zu einer Jagd zu kommen, leider abgelehnt, er hat etwas von "Problemen" angedeutet, was als die zunehmenden Spannungen im Süden verstanden werden kann."
+ cog.20.africanwar:0 "Hans Hüttig hat unser Angebot, zur Jagd zu kommen, leider abgelehnt, er hat etwas von „Themen“ angedeutet, die als Südafrikakrieg verstanden werden können."
+ cog.20.africanwardone:0 "Leider lehnte Hans Hüttig unser Angebot, zur Jagd zu kommen, ab, er deutete etwas von „Themen“ an, die als Wiederaufbau und Stützpunkt im Süden verstanden werden könnten."
+ cog.20.a:0 "Wir brauchen ihn sowieso nicht."
+ cog.21.t:0 "Die Nobelste Jagd"
+ cog.21.d:0 "Heute ging Müller auf eine seiner besten Jagden, er schoss mit seinem Gewehr auf einen Löwen, aber er tötete ihn nicht, der Löwe rannte weg, und Müller rannte ihm nach, dann war Müller in einer guten Position, um den Löwen zu töten, aber er sah etwas Besseres, er sah einen Elefanten. Müller konnte es nicht ertragen, ein solches Tier zu töten, und er schoss 3 Schüsse auf das Bein des Elefanten, der Elefant konnte sich nicht bewegen und alle anderen Elefanten liefen weg, er schoss ihm in den Kopf, und bumm, er hatte ihn erwischt. Müller und sein Team nahmen den Elefanten anschließend mit und aßen ihn zum Abendessen."
+ cog.21.a:0 "Dies ist eine echt noble Jagd."
+ cog.22.t:0 "Unsere Feinde Näher"
+ cog.22.d:0 ""
+ cog.22.a:0 ""
+ cog.23.t:0 "Ausprobieren Unserer Afrikanischen Jungs"
+ cog.23.d:0 ""
+ cog.23.a:0 ""
+ cog.24.t:0 "Mulamba Unter Dem Flügel"
+ cog.24.d:0 ""
+ cog.24.a:0 ""
+ cog.25.t:0 "Mulambas-Test"
+ cog.25.d:0 ""
+ cog.25.a:0 ""
+ cog.26.t:0 "Firmenmänner"
+ cog.26.d:0 ""
+ cog.26.a:0 ""
+ cog.27.t:0 "Auf Der Plantage"
+ cog.27.d:0 ""
+ cog.27.a:0 ""
+ cog.28.t:0 "Stärke Im Ausland"
+ cog.28.d:0 ""
+ cog.28.a:0 ""
+ cog.29.t:0 "Alles Für Einen Dollar"
+ cog.29.d:0 ""
+ cog.29.a:0 ""
+ cog.30.t:0 "Die Sauren Burschen Aus Kongo"
+ cog.30.d:0 ""
+ cog.30.a:0 ""
+ cog.31.t:0 "Unsere Freunde In Frankreich"
+ cog.31.d:0 ""
+ cog.31.a:0 ""
+ cog.32.t:0 "Massu Entlang Der Savanne"
+ cog.32.d:0 ""
+ cog.32.a:0 ""
+ cog.33.t:0 "Die Ultimative Jagd"
+ cog.33.d:0 ""
+ cog.33.a:0 ""
+ cog.34.t:0 "Das Gefährlichste Spiel"
+ cog.34.d:0 ""
+ cog.34.a:0 ""
+ cog.35.t:0 "Freunde Finden"
+ cog.35.d:0 ""
+ cog.35.a:0 ""
+ cog.36.t:0 "Akintola Auf Der Safari"
+ cog.36.d:0 ""
+ cog.36.a:0 ""
+ cog.37.t:0 "Jadgsucht"
+ cog.37.d:0 ""
+ cog.37.a:0 ""
+ cog.38.t:0 "Die Freunden Des Mannes"
+ cog.38.d:0 "Ostland wird oft als Musterkolonie betrachtet, die immer im Namen des Vaterlandes handelt und versucht, echte Arier zu sein. Aha! Nicht unter Reichskommissar Müllers Aufsicht! Zentralafrika ist, wenn überhaupt, eine Ausbeutungsstätte für das Reich und ein Vergnügungspark für den Reichskommissar selbst. Denn wenn es wirklich etwas gibt, was Müller in dieser Welt liebt, dann ist es die Jagd auf exotische Tiere aller Art und Form. Das Land wird derweil nach Herzenslust ausgebeutet. Tonnen über Tonnen natürlicher Ressourcen werden täglich durch die Häfen Zentralafrikas geschleust, um die großen Ausgaben des Reiches zu decken. Wer weiß schon, was das Herz der Finsternis in diesen dunklen Zeiten erwartet? Nun, Müller weiß es nicht, und es ist ihm auch egal."
+ cog.38.a:0 "Es gibt wahrlich keine natürlichere Freude im Leben als den Nervenkitzel der Jagd!"
+ cog.39.t:0 "Der Arier Auf Dem Mond"
+ cog.39.d:0 "Müller dachte, dass der heutige Tag nicht besser werden könnte. Die Jagd war großzügig, das Wetter war ausgezeichnet und die Gesellschaft? Einwandfrei. Aber oh oh oh! Müller muss wirklich ein Glückspilz sein, denn als er sich zu einem anderen Jagdrevier begibt, erreicht ihn die Nachricht, dass das deutsche Raumfahrtprogramm, dass die tapferen Männer, die nichts anderes wollen als den Start für ihr Vaterland, endlich ihre große Mission, die nur für die arische Rasse geeignet ist, erfolgreich abgeschlossen haben. Wahrlich, die arische Rasse ist die auserwählte Rasse, denn wie sonst könnten sie alle anderen in einem so großen Rennen schlagen? Die Bemühungen der Amerikaner und Japaner sind vergebens, denn das Reich, das Vaterland der Herrenrasse, das Zentrum der Welt, hat endlich die letzte Eroberung des Menschen vollendet und einen Menschen auf dem Mond gelandet!"
+ cog.39.a:0 "Eine weitere große Leistung des Übermenschen!"
+
+  COG_Lobster_War.1.t:0 "Von Der Speisekarte"
+  COG_Lobster_War.1.desc:0 "Reichskommissar Müller blätterte weiter untätig in den Berichten an seinem Schreibtisch. Alles, was er heutzutage tat, so dachte er, war herumzusitzen und nutzlose Dokumente zu unterschreiben, die wertlose Projekte und Initiativen genehmigten. Sehnsüchtig starrte er auf die verschiedenen Trophäen an seiner Wand; es war schon eine Weile her, dass er sich wirklich amüsieren und austoben konnte, und sie fingen bereits an, Staub anzusetzen. Seine Tagträumerei über seine nächste Beute wurde durch das Klopfen an seiner Tür unterbrochen.\n\n "Hm? Wer ist da?"\n\n "Herr Müller? Sind Sie um diese Zeit zu sprechen?"\n\n "Ich denke schon." Müller richtete sich in seinem Sitz auf, in der Erwartung, dass eine Welle schlechter Nachrichten auf ihn zukommen würde. "Ein nervöser Adjutant stieß verlegen die Tür auf und hielt einen Stapel von Berichten in der Hand, auf denen die Insignien der Admiralität verteilt waren. Müller wusste schon anhand des Verhaltens des Adjutanten, worum es in den Berichten ging. Er hatte nun die unglückliche Aufgabe, seinen Nachmittag damit zu vergeuden, sie zu lesen. "Herr Müller, ich muss leider berichten, dass unsere Fischereifahrzeuge von der brasilianischen Marine gestört und größtenteils zerstört wurden. Ich bin sicher, dass dies eine große Unannehmlichkeit für Sie ist, und ich werde..." Müller winkte den Adjutanten ab, bevor er noch etwas sagen konnte, und der Adjutant nahm dies zum Anlass, einen zittrigen Salut abzugeben, bevor er sich aus dem Raum zurückzog. Wie sollte er der Elite in Germanien die Nachricht überbringen, dass sich der Preis für Meeresfrüchte verdoppeln, vielleicht sogar verdreifachen würde? Es würde ihm verdammt schwer fallen, das herauszufinden, und es würde viel Geschrei und Streit geben. Müller freute sich jedenfalls nicht darauf."
+  COG_Lobster_War.1.a:0 "Weitere Kopfschmerzen um die sich Herr Müller kümmern muss."
+
+  COG_Lobster_War.2.t:0 "Das Andere Ende Des Schiffes"
+  COG_Lobster_War.2.desc:0 "Mit den Händen an die Außenseite der Schiffskabine gelehnt, blickte Hans zu den drei anderen tapferen Fischern, die mit ihm dort lehnten. Zumindest tapfer in seinem Land. Hier waren sie nichts weiter als Gauner, und der Brasilianer, der mit einem Gewehr bewaffnet in ihrer Reihe auf und ab ging, war mehr als genug, um Hans' Position als wenig mehr als ein Dieb zu festigen. Ihr Schiff war von dem brasilianischen Zerstörer völlig unvorbereitet erwischt worden, und selbst jetzt liefen seine Soldaten auf den unteren Decks herum wie Ameisen auf der Suche nach Nahrung. Bei der Fülle an Krabbenfanggeräten, die unter Deck gelagert waren, würden diese Insekten bestimmt etwas finden, um ihren Appetit zu stillen, ganz zu schweigen von der Rechtfertigung für das Entern des Schiffes.\n\n In diesem Moment bestätigte ein Schrei von unter Deck Hans' schlimmste Befürchtungen und riss ihn aus seinem inneren Monolog. Ein Paar der Soldaten rannte die vom Wasser des Atlantiks beschmierte Treppe hinunter, während ein anderes hinauflief. Als sie zu dem zurückkehrten, was jeder Seemann als den Soldatenkapitän erkennen konnte, wechselten die beiden ein paar Worte in vermutlich portugiesischer Sprache, und der Kapitän zog an Hans' Kapitän Karl am Kragen: "Du hast hier nichts zu suchen, weißt du das?" Der Brasilianer warf Hans' Kapitän auf das Deck, wobei das Wasser gegen die Schuhe der Männer spritzte, die noch immer wie in einer Schusslinie standen.\n\n "Ja", erwiderte Karl barsch. Als er aufstand, zog Karl eine Grimasse über seine durchnässte Hose und blickte dann wieder zu dem brasilianischen Kapitän. "Wir wissen, was Sie von uns denken, und wir wissen, dass Sie nichts tun werden." Der brasilianische Kapitän schien verblüfft zu sein und runzelte dann wieder die Stirn. "Gut. Wie Sie wollen, Herr Kapitän." Der Kapitän spuckte in einem spöttischen Tonfall, als das Knistern eines Funkgerätes hinter Hans zu hören war, während der Brasilianer in großer Dringlichkeit sprach, nicht dass irgendjemand auf dem Schiff es verstand. Als das Knistern aufhörte und die Worte sich ihren Weg aus dem Plastikstein bahnten, sprach der Brasilianer erneut. "Sie haben eine Minute Zeit, sich nach Afrika eskortieren zu lassen, oder wir rammen Sie mit 30 Knoten. Letztes Angebot.""
+  COG_Lobster_War.2.a:0 ""Deal.""
+
+  COG_Lobster_War.3.t:0 "Schlechte Neuigkeiten vom Atlantik"
+  COG_Lobster_War.3.desc:0 "Lukas hatte gerade sein Frühstück mit seinen Fischerkollegen beendet; sie hatten gut gegessen, seit sie mit dem Fischfang in brasilianischen Gewässern begonnen hatten. Als er Deutschland verließ, um diesen Job anzunehmen, war er ernsthaft skeptisch, wie lukrativ er tatsächlich sein könnte, aber Lukas hatte mit diesem Fischereivertrag ein Vermögen und noch einiges mehr gemacht. Als er sich seinem Schiff näherte, bemerkte er seinen Kapitän mit einem besorgten Gesichtsausdruck, was nie etwas Gutes war. Lukas ging auf den Kapitän zu und grüßte ihn fest, aber der Kapitän antwortete kaum mit einem eigenen Gruß. Unser Vertrag ist gekündigt worden. Vollständig."\n\nDer Schock wurde von Lukas und seinen Schiffskameraden kaum registriert. Storniert? Sie brachten pro Fahrt 40 Kisten mit Meeresfrüchten ein: Wie konnte das nicht profitabel sein? "Kapitän, warum ist die Fahrt abgesagt? Wir haben weit über unsere Quote hinaus gefischt, und ich kann keinen Grund dafür erkennen." Der Kapitän drehte sich um und starrte eine Sekunde lang aufs Meer, bevor er einen tiefen Seufzer ausstieß. "Das Reichskommissariat hat uns dringend empfohlen, den Fischfang in brasilianischen Gewässern einzustellen." Die Mannschaft tauschte einige ungläubige Blicke aus, bevor der Kapitän fortfuhr: "Glaubt mir, Jungs. Ich bin genau so verblüfft wie ihr alle. Auch wenn alles friedlich war, gibt es keine Garantie, dass es so bleibt. Ihr Jungs müsst euch neue Aufgaben suchen. Es war mir ein Vergnügen, an eurer Seite zu dienen."\n\nDie gesamte Besatzung starrte ausdruckslos auf das Meer, das sie nicht mehr überqueren würde."
+  COG_Lobster_War.3.a:0 "Na gut, was jetzt?"
+
+  COG_Lobster_War.4.t:0 "Ein Einfacher Sieg"
+  COG_Lobster_War.4.desc:0 "Die Tränen begannen aus Müllers Augen zu laufen, als er den jüngsten Bericht seiner Admiräle weiterlas. Müller hatte einen weiteren langweiligen Tag mit Papierkram zugebracht, als er den Bericht darüber las, dass die brasilianische Marine nicht einmal in der Lage war, mit einigen schlecht bewaffneten und untrainierten Fischern fertig zu werden. Eine offizielle Entschuldigung zusätzlich zu den anhaltenden und beträchtlichen Schäden, die das Lumpengesindel, das sie als Marine zu bezeichnen wagen, erlitten hatte, war für den Reichskommissar nicht mehr zu ertragen. Sein Magen begann zu schmerzen, und er krümmte sich fast in seinem Stuhl, als die Tür zu seinem Büro eingetreten wurde. Ein schockierter Adjutant und ein Wachmann stürmten herein, aber Müller konnte sich das Lachen und Keuchen nicht verkneifen, sein Gesicht war purpurrot. "Herr Müller! Ist alles in Ordnung? Wir haben uns schon Sorgen gemacht, wie lange Sie schon, na ja... lachen."\n\n "Mir geht es gut, ihr Idioten! Warum habt ihr meine verdammte Tür eingetreten?" Die beiden starrten entsetzt auf die Tür, aber Müller hörte endlich auf zu lachen und hob eine Hand, um die beiden zu beruhigen. "Mach dir keine Sorgen! Ich rufe Hans später an, damit er das repariert. Ihr könnt beide gehen."\n\nWie ein Schulmädchen, das eine Liebesgeschichte liest, konnte Müller es kaum erwarten, was der Bericht ihm als nächstes sagen würde. Würde Brasilien bei diesem Tempo für die Schäden an den Fischerbooten aufkommen? Müller konnte nicht anders, als in den Berichten zu blättern, um zu sehen, wie weit Brasilien dem Reichskommissariat entgegenkam. Das Gelächter setzte kurz darauf wieder ein, und Müller klopfte mehrmals auf seinen Schreibtisch, um sich vor der nächsten Lachsalve zu schützen."
+  COG_Lobster_War.4.a:0 "Die Brasilianer haben eindeutig den Verstand verloren."
+
+  COG_Lobster_War.5.t:0 "Probleme Im Atlantik"
+  COG_Lobster_War.5.desc:0 "Müller wippte mit den Füßen und wartete gespannt auf ein Update von der Marine über den Zustand seiner Fischerboote. Seine Gedanken kreisten ständig zwischen dem Angebot der Brasilianer und den Besprechungen mit seinen Admirälen: War er bei Salles zu voreilig gewesen? Sollten seine Admiräle wirklich so viel Vertrauen in einen Haufen ziviler Fischer haben? Müller war in Gedanken versunken, bis er ein Klopfen an seiner Tür hörte. Dem Klopfer fehlte es an Vertrauen, genau wie ihm selbst.\n\n "Herr Müller? Die Admiräle haben Neuigkeiten für Sie." Der Adjutant betrat den Raum und legte einen einzelnen Briefumschlag auf seinen Schreibtisch, bevor er sich sofort wieder hinausschlich. Müller riss die Akte auf wie ein Hund, der eine Woche lang nichts gefressen hatte, und ein Wort stach ihm sofort ins Auge: besiegt. Die Fischerboote waren von der brasilianischen Marine aufgegriffen und nach Zentralafrika zurückgedrängt worden, und auf deutscher Seite gab es viele Verluste, während die Brasilianer kaum welche zu beklagen hatten.\n\Die Demütigung war für Müller und Zentralafrika immens. Er fürchtete sich vor dem Brief, den er nach Germanien und an den Führer zurückschicken musste. Es gab einfach keinen guten Weg, diese Peinlichkeit zu formulieren, und die wichtigste Nahrungsquelle des Reiches war nun völlig abgeschnitten. Müller massierte sich die Schläfe und versuchte, den ganzen Vorfall zu vergessen. Gott sei Dank hatte er Anfang der Woche einen Jagdausflug geplant, dachte er. Die kommenden Tage würden ohne ihn kaum zu ertragen sein."
+  COG_Lobster_War.5.a:0 "Die Wahrheit bleibt jenseits jeglicher Ablenkung bestehen."
+
+  COG_Lobster_War.6.t:0 "Wie Der Vater, So Der Sohn"
+  COG_Lobster_War.6.desc:0 ""Ich nehme an, das macht es zu einem Tag, nicht wahr?" Nicolas hatte das Gefühl, dass ihm ein schlechter Witz erzählt wurde, nicht der erste, wenn man bedenkt, dass er mit seinem Vater sprach. "Das kommt mir wie eine rhetorische Frage vor - du warst doch dabei, oder?"\n\nDie beiden verließen den Hafen von Pointe-Noire und machten sich auf den Weg zu dem üblichen belgischen Kaffeehaus für Auswanderer. Obwohl sich Vater und Sohn in den letzten Jahren auseinandergelebt hatten, fanden die beiden immer Trost darin, sich jeden Abend im Restaurant ihres gemeinsamen Freundes wieder zu treffen. Als Nicolas begann, durch die Straßen des urbanen Paradieses im Kongo zu gehen, konnte er nicht anders, als mit seinem "Chef" über den letzten Arbeitstag zu sprechen: "Wenn du das jeden Tag machst, wie oft würdest du dann sagen, dass du Hilfe brauchst? Rund um den Trawler, meine ich." Sein Vater nahm sich einen Moment Zeit, um so zu tun, als würde er nachdenken. "Hm ... ständig, die ganze Zeit." Er gluckste. "Du warst dabei, nicht wahr?"\n\n "Oh, hah hah, wenn das ein Ja ist, hätte ich dann jetzt einen Job? Betrachten Sie das als Vorstellungsgespräch, nehme ich an." Nicolas beschleunigte seine Schritte und ging rückwärts vor seinem Vater den Bürgersteig hinunter. "Du kennst ja bereits meine große Erfahrung auf dem Gebiet, ganz zu schweigen davon, dass ich auch unter angespannten Bedingungen gut arbeite, wie zum Beispiel beim Kochen mit dir und irgendwie verbrannten Eiern." "Vergiss nicht, dass du mich überreden willst, Nicolas." Die beiden stießen die Tür zu ihrem gewohnten Treffpunkt auf. "Also, was kann ich für Sie tun? Betrachten Sie es als Vorschuss."\n\nWährend sie ihre Schüsseln mit Suppe zu ihrem üblichen Tisch brachten, kam die unvermeidliche Frage auf. "Also, ich bin sicher, Sie haben die Gerüchte gehört, Sie haben gute Verbindungen, Sie wissen um den Ärger, der manchmal auftauchen kann."\n\nNicolas nickte. "Nun ...""
+  COG_Lobster_War.6.a:0 ""Dies ist ein Risiko das ich eingehen werde.""
+
+  COG_Lobster_War.7.t:0 "Die Moralitäten Des Diebstahls"
+  COG_Lobster_War.7.desc:0 "Hans prüfte erneut seine Karten. Herz fünf, Herz sieben und eine Pik zwei. Offensichtlich sah es nicht gut aus, und das konnte man in der Luft der Kabine spüren, die auf dem Weg zum Atlantik hin und her schwankte. Er spürte bereits, wie ihm der Schweiß auf der Stirn stand, so sehr er sich auch bemühte, sein Pokerface aufrechtzuerhalten, oder besser gesagt: zu betäuben. Er musste die Aufmerksamkeit von sich ablenken.\n\n "Also, was ich nicht verstehe, ist, warum wir wegen dieser Sache in irgendeiner Weise unter Druck stehen."\n\n "Sie meinen die Verletzung internationaler Gewässer?" Klaus gluckste mit dem Rest des Pokertisches, bis auf Hans, der kaum ein Lächeln zustande brachte. "Nun, zunächst einmal würde ich annehmen, dass die Brasilianer auf die Gewinne aus dem Krabbenfang verzichten."\n\nHans lehnte seinen Kopf nach vorne und gab ein sarkastisches "Haw-haw" von sich. "Nein, das verstehe ich. Die Sache ist die, dass Brasilien nicht knapp bei Kasse ist, oder? Die müssen sich nicht abrackern, weil ihnen sonst der reiche Onkel Deutschland die Axt an den Kopf hält, oder?" Uwe meldete sich aus seiner scheinbaren Sorge um seine eigenen Karten zu Wort. "Nun, ja, aber Brasilien schwimmt auch nicht gerade im Geld, oder? Hast du mal gesehen, wie die Hälfte ihrer Politik aussieht?"\n\n "Schön und gut, aber irgendwann kommt der Punkt, an dem wir ein Anrecht auf so etwas haben, oder?" konterte Hans. "Es muss eine Art Verhältnis zwischen Diebstahl und Anspruch geben, auf das wir ein Recht haben." Klaus und Uwe schwiegen einen Moment lang. Dann meldete sich Klaus zu Wort. "Nun, ich könnte mir vorstellen, dass die Mächtigen die Einzelheiten besprechen müssen, nicht wahr?"\n\nUwe schnippte mit den Fingern und richtete seine Haltung wieder auf. "Das habe ich auch gedacht, aber Brasilien hat sich nicht zu Verhandlungen bereit erklärt, ohne dass wir uns völlig geschlagen geben, also nehme ich an, dass wir moralisch freie Hand haben, wenn sie sich nicht an den Verhandlungstisch setzen wollen." Uwe räusperte sich."
+  COG_Lobster_War.7.a:0 ""Und das beruhigt zumindest mich.""
+
+  COG_Lobster_War.8.t:0 "Über Deiner Einkommensklasse"
+  COG_Lobster_War.8.desc:0 "Jean sah sich die Arbeitsliste für diese Woche an. Es war zwar nicht so, dass irgendjemand wirklich darauf achtete, was er die Woche über zu tun hatte, aber es wurde schwierig, sich auf die Arbeit zu konzentrieren, wenn sie sich zu sehr wiederholte, um nicht zu merken, dass hinter den Kulissen etwas vor sich gehen musste. Als ich mir die Liste der letzten Wochen ansah, stellte ich fest, dass die Zahl der Fischtrawler merkwürdigerweise stetig zunahm. Bingo. Das war doch der amerikanische Ausdruck, oder?" Jean lehnte sich an die Wand des Büros und zündete sich eine billige Zigarette an, die er einem belgischen Geschäftsmann abhandeln konnte. Natürlich versuchte er, den Tabak teurer zu verkaufen, als er wert war, aber das war von einem spießigen, verbitterten Belgier nicht anders zu erwarten, und es war sicher nicht hilfreich, dass der Belgier etwas an einen Einheimischen verkaufte. Aber das spielte jetzt auch keine Rolle mehr. Was jedoch eine Rolle spielte, war die Frage, warum ausgerechnet die Fischtrawler, die zur Reparatur kamen, in die Häfen strömten. Jean grinste vor sich hin und nahm einen weiteren Zug an seiner Zigarette. Als Nächstes waren die genauen Unterlagen über die Schäden dran. Als er die entsprechende Schublade des Aktenschranks öffnete, stellte er überrascht fest, dass sich dort keine Ordner aus den letzten Monaten befanden. Es gab sogar keine aus den letzten anderthalb Jahren. Nicht einmal, dass die Akten gar nicht erst angelegt worden wären, es musste doch irgendeine Art von Aktenregistrierung geben, schließlich war dies nicht gerade Schencks Höllenloch, aber selbst die Ordner selbst, die den Schrank in Ordnung hielten, waren verschwunden.\n\nAuf der anderen Seite des Büros klingelte der Fahrstuhl zum Stockwerk. Jean nahm einen letzten Zug an seiner Zigarette. Hastig warf er die Registraturordner zurück an ihren Platz und rannte zurück zur Treppe an der Rückseite des Bürogebäudes mit Blick auf den Südatlantik. Nachdem er den Notausgang hinuntergelaufen war, nahm sich Jean einen Moment Zeit, um über den großen Ozean zu blicken, als er spürte, wie ihn eine Entschlossenheit wie ein eiserner Schraubstock packte. Es gab einen Grund dafür, dass so viele Trawler in Einzelteilen zurückkamen."
+  COG_Lobster_War.8.a:0 "Selbst wenn es das letzte war was er tat."
+
+  COG_Lobster_War.9.t:0 "Wie Legal Nur?"
+  COG_Lobster_War.9.desc:0 "Etwas, das Arthur beim Mischen von Papieren in Müllers Namen gelernt hatte, war, dass die Vorteile, die sich aus der Entscheidung ergaben, was geschah und was nicht - zumindest, was irgendjemanden in Germanien betraf - so absolut groß waren, dass es keinen Vergleich auf der Welt gab. Manchmal war es eine der aufregendsten Erfahrungen seines Lebens, in seinem muffigen Büro in Gott weiß wo in Afrika zu sitzen. Tausend verschiedene "unternehmungslustige Individuen" hatten ihn um den einen oder anderen Gefallen gebeten, um einige Dinge verschwinden oder andere entstehen zu lassen, natürlich alles gegen ein angemessenes Honorar. Das Problem bestand immer darin, den Haushalt auszugleichen" - oder besser gesagt, einen Haushalt zu erstellen, der alle Korruption ausschließt. Als also die Idee aufkam, die Gewinne aus dem Krabbenfang in den brasilianischen Gewässern einzubeziehen, war das praktisch das perfekte Verbrechen. Arthur brauchte nämlich nicht anzugeben, wie viel Gewinn aus den Expeditionen erwirtschaftet wurde. Wenn er es richtig anstellte, war es durchaus möglich, dass Arthur in seiner kleinen "Operation" noch wer-weiß-wie-viel weiteren Spielraum erschließen konnte. Das Problem blieb jedoch, dass Arthur nicht wusste, wie Germania über solche Expeditionen dachte. Hielten sie sie für illegal? Sie wussten auf jeden Fall davon, das konnten sie unmöglich nicht wissen. Wenn es illegal wäre, dann hätte Germania bereits gegen die Operationen vorgegangen. Haben sie beschlossen, einfach wegzusehen? Wenn ja, dann wollten die Bürokraten in Germanien keinen Grund haben, davon zu wissen. Arthur nahm den Almanach eines jeden seriösen Bürokraten zur Hand: das Telefonbuch. "Hallo, hier spricht Arthur Davies von der Zentralafrikanischen Buchhaltung, wären Sie in der Lage, mir etwas über die Legalität des Krabbenfangs in brasilianischen Gewässern zu sagen? Wie steht Deutschland genau dazu?" Eine Pause zwischen den Zeilen. "Ähmm... Ich bin mir nicht sicher, ob das der richtige Ort ist. Haben Sie es bei der..."\n\nArthur nahm sich einen Moment Zeit zum Durchatmen. Es war jetzt Mitternacht. Das war der Grund, warum Arthur angeblich der Erste war, der von den Möglichkeiten der Gewinnermittlung in der Krabbenfischerei hörte. Niemand wusste, wie das ging, und Arthur konnte sich dazu zählen."
+  COG_Lobster_War.9.a:0 "Letztendlich entschied er sich gegen die Anerkennung der Expeditionen."
+
+  COG_Lobster_War.10.t:0 "Die Größte Hegemonie Der Welt"
+  COG_Lobster_War.10.desc:0 "Als er auf die versammelte Menge in seiner Kabine blickte, wusste Ernst, dass sich jeder darüber im Klaren war, warum sie sich versammelt hatten, als ob die nervösen Söldner nicht schon ein eindeutiges Zeichen wären. Als er mitten in der Notversammlung der Seeleute und Fischer in den brasilianischen Gewässern stand, hatte die Spannung stetig zugenommen, seit Ernst den feuchten Raum zum ersten Mal mit einem Blick der Enttäuschung in den Augen und einem Gefühl des Grauens in seinem Gang betreten hatte. Er ging zu dem einen Stuhl in der Mitte des Raumes, lehnte sich an die Rückenlehne der starken Eiche und blickte auf die versammelten knapp ein Dutzend Seeleute um ihn herum. "Es ist kein Wunder, warum wir alle hier sind. Gott allein weiß, wie lange es her ist, dass wir deutsche Gewässer verlassen haben, und selbst er weiß nicht, wie lange es her ist, dass unsere Freunde in der Regierung gesagt haben, dass Brasiliens Gewässer offiziell tabu sind. Warum wir immer noch hier sind, steht offensichtlich nicht so sehr zur Debatte wie die Eingrenzung von Einzelheiten. Ernst wies mit einer Geste auf einen der beiden Söldner, die gerade zu der improvisierten Besprechung hinzukamen. "Die Notwendigkeit einer verstärkten Sicherheitspräsenz ist auch nicht unbemerkt geblieben, schließlich haben wir alle Hank getroffen, nicht wahr?" Der Amerikaner winkte der Besatzung unbeholfen zu und beendete damit im Handumdrehen ihre ehemals dominierende Präsenz in der vergangenen Woche.\n\Einer der jüngeren Deckarbeiter, Maxime, ein Belgier, trat vor. "Wunderbar, wir sind alle auf derselben Seite. Was ich wissen möchte, ist, warum wir hier sind, Kapitän."\n\nErnst wich vom Stuhl zurück. "Ja. Warum wir hier sind. Richtig." Der Captain räusperte sich. "Geld." Ein leichtes Gelächter erschütterte die Kabine, bevor es in Erwartung dessen, was der Captain zu sagen hatte, wieder verstummte. "Nun, um ganz ehrlich zu sein, es lohnt sich einfach nicht mehr. Die Brasilianer riegeln die Wasserwege ab, und wir haben die letzten zwei Tage damit verschwendet, unseren Weg so umzuleiten, dass es sich nicht einmal mehr lohnt. Aus diesem Grund habe ich die Entscheidung getroffen, die Fahrt einzustellen..." Ein halb gefährdetes, halb verständnisvolles Stöhnen ertönte in der Kabine. "Hören Sie, ich weiß, dass das nicht ideal ist, aber-""
+  COG_Lobster_War.10.a:0 "Im Raum entbrannte ein Streit."
+
+  COG_Lobster_War.11.t:0 "Keine Weiteren Risiken"
+  COG_Lobster_War.11.desc:0 ""Nein, du verstehst es nicht, Reinhard, ich bin fertig. Ich bin raus. Ich will meinen Lohn, und ich will für immer raus aus diesem gottverlassenen Boot." In Anbetracht der Tatsache, dass dies nicht der erste Streit dieser Art war, den Reinhard Fischer heute hatte, ging er die Standardliste durch, die er allen vor dem aufgebrachten Ex-Schlepper dieser Stunde gegeben hatte. "Ich verstehe, Klaus, ich habe das schon von einem Dutzend anderer Leute in diesem Büro gehört, und sie sind alle zufrieden gegangen. Ich habe nicht vor, diese Serie zu unterbrechen, also seien Sie einen Moment nachsichtig mit mir. Tun Sie sich selbst einen Gefallen, hören Sie zu, es wird Ihnen nur helfen."\n\nKlaus schien einer der respektableren Deutschen zu sein, die unter Fischers Schirmherrschaft arbeiteten, Hemd mit Kragen, eine richtige deutsche Familie, das ganze Drum und Dran. Dies geschah jedoch um den Preis, dass Klaus sich selbst dazu zwang, eine höhere Bezahlung anzustreben. Ein bewundernswerter Ehrgeiz, bis er anfing, Fischer in die Tasche zu greifen.\n\n "Was ich nicht verstehe, ist, warum du raus willst. Du wirst gut bezahlt, dein Arbeitsplatz ist so sicher wie eh und je - ungeachtet der jüngsten Ereignisse - und du bist einer meiner am meisten geschätzten Trawler. Warum also?" Klaus stieß einen tiefen Seufzer aus und lehnte sich an Fischers Schreibtisch.\n\ "Weil ich das Essen nicht bezahlen kann, Reinhard. Du hast mich nicht bezahlt, vorausgesetzt, du hast es nicht vergessen, und wenn du mich nicht bezahlst, arbeite ich nicht." Fischer starrte Klaus unverwandt an und beugte sich vor: "Du gehst jetzt, und ich bezahle dich nicht." Klaus lächelte und trat einen Schritt von den fein säuberlich aufgereihten Papieren und Stiften auf Fischers Schreibtisch zurück.\n\n "Kein Problem, Reinhard. Mein Vater ist ein vielbeschäftigter Mann, und ich bin dabei, mich ihm anzuschließen. Schramme scheint heutzutage viele von uns entbehrlichen Arbeitskräften aufzunehmen, und ich war in seinem Haus immer willkommen. Ich erwarte nur, dass das so bleibt." Klaus war schon immer ein selbstgefälliges Arschloch, und er hielt die Tradition aufrecht, seinen Job ohne seine zweiwöchige Kündigungsfrist zu verlassen. Fischer stürmte aus seinem Büro und strich Klaus' Namen durch."
+  COG_Lobster_War.11.a:0 "Ein weiterer Name von der Liste"
+
+  COG_Lobster_War.12.t:0 "Nur Der Botschafter"
+  COG_Lobster_War.12.desc:0 ""Ja, Sir, so steht es auf der Speisekarte, aber wie Sie sicher wissen, sind die Preise für Krustentiere in die Höhe geschossen, und ich würde mir berechtigte Sorgen machen, wenn Sie irgendwo ein Lokal finden, das noch Meeresfrüchte verkauft." Manon hatte genau dieses Lied und diesen Tanz seit etwa einer Stunde vorgeführt, und er spürte bereits, dass er entweder dringend eine Zigarette brauchte oder schreckliche Kopfschmerzen bekam.\n\n "Warum haben Sie dann die Speisekarte nicht geändert? Das ist doch lächerlich, wir sind hierher gekommen, um Meeresfrüchte zu essen, und wir erwarten, dass wir verdammte Meeresfrüchte essen!"\n\n "Natürlich, ich werde mit dem Chefkoch sprechen, aber machen Sie sich keine großen Hoffnungen." Als er auf die Küche zuging, konnte man das Chaos in der Küche hinter den schwachen Schwingtüren hören. Manon ging an seinem Schichtleiter vorbei, schaute auf die Uhr und lächelte. "Maurice, das ist eine Stunde, ich mache eine Rauchpause." Maurice, der bereits mitten in einem Streit mit einem der Sous-Chefs steckte, zeigte nur den Daumen nach oben. "Dannielle, du übernimmst die Tische zwölf, vierzehn und sechzehn, an Tisch zwölf sitzt ein hübsches Paar, das auf der Suche nach Meeresfrüchten ist, und ich habe ihnen gesagt, dass ich mit dem Küchenchef sprechen werde, könntest du das für mich übernehmen?" Die beiden wussten bereits, dass es sich nicht um eine Frage im eigentlichen Sinne handelte. "Ja, verrotte in der Hölle, Manon." Sie ging mit einem Arm voller Appetithäppchen auf die Schwingtür zu, der Standardmunition für den Umgang mit Gästen, die nicht bekamen, was sie wollten - die Küche hatte im Laufe der Nacht bereits die Hors d'oeuvres einer ganzen Woche vertilgt, und die Köche waren angewiesen worden, nicht aufzuhören, bis die Sonne aufging. Manon zog eine einzelne Zigarette aus seiner Hosentasche und hielt sie über den vorderen Brenner, während er zur Hintertür hinausging und aus der Gasse herausging. Er nahm den ersten Zug an seiner Zigarette und nutzte den Moment, um die Aussicht zu genießen."
+  COG_Lobster_War.12.a:0 "Die andere Seite einer Nacht in der Stadt."
+
+  COG_Lobster_War.13.t:0 ""
+  COG_Lobster_War.13.desc:0 ""
+  COG_Lobster_War.13.a:0 ""
+
+  COG_Lobster_War.14.t:0 ""
+  COG_Lobster_War.14.desc:0 ""
+  COG_Lobster_War.14.a:0 ""
+
+  COG_Lobster_War.15.t:0 ""
+  COG_Lobster_War.15.desc:0 ""
+  COG_Lobster_War.15.a:0 ""
+
+ #shared focuses
+ ######################## all names are the same as their id, if some dont need to be like that edit them, everything need desc or improve desc ########################
+# COG_a_corporate_empire:0 "Ein Firmenimperium" #duplicate loc key
+# COG_a_corporate_empire_desc:0 "" #duplicate loc key
+ COG_selling_off_the_land:0 "Verkaufen Des Landes"
+ COG_selling_off_the_land_desc:0 "Der Verkauf von Land ist ein guter Weg, um Geld zu verdienen. Wir sollten Land an andere Länder verkaufen, und dafür werden sie unser Land auf den verbleibenden Flächen entwickeln."
+ COG_our_friends_in_the_homeland:0 "Unsere Freunde Im Heimatland"
+ COG_our_friends_in_the_homeland_desc:0 "Deutschland ist unser größter Freund. Sie werden uns helfen egal um welchen Preis."
+# COG_shipping_expansion_desc:0 "Zentralafrika ist wirklich die größte afrikanische Seemacht, wir sollten unsere Marine ausbauen." #duplicate loc key
+ COG_total_exploitation:0 "Totale Ausbeutung"
+ COG_total_exploitation_desc:0 ""
+ COG_our_friends_in_switzerland:0 "Unsere Freunde In Der Schweiz"
+ COG_our_friends_in_switzerland_desc:0 "Die Schweiz ist ein deutsches Land, wenn auch nicht Teil des Reiches, ein Land mit Ehre und könnte einer unserer großen Verbündeten sein."
+ COG_swiss_business_interests:0 "Schweizer Geschäftsinteressen"
+ COG_swiss_business_interests_desc:0 ""
+# COG_work_with_sudwestafrika:0 "Arbeite mit Südafrika" #duplicate loc key
+# COG_work_with_sudwestafrika_desc:0 "" #duplicate loc key
+# COG_our_own_airfields_desc:0 "" #duplicate loc key
+ COG_plausible_deniability:0 "Plausible Bestreitbarkeit"
+ COG_plausible_deniability_desc:0 ""
+ COG_our_friends_abroad:0 "Unsere Freunde Im Ausland"
+ COG_our_friends_abroad_desc:0 ""
+ COG_american_funding:0 "Amerikanische Finanzierung"
+ COG_american_funding_desc:0 "Das Interesse der Amerikaner an unserem Land ist für sie und für uns groß, auch wenn sie nicht unsere "besten Freunde" sind, sind sie doch ein wichtiges Land und für uns notwendig."
+ COG_total_exportation:0 "Totaler Export"
+ COG_total_exportation_desc:0 ""
+# COG_blood_diamonds:0 "Blutdiamanten" #duplicate loc key
+# COG_blood_diamonds_desc:0 "Wir bluten Diamanten! Unsere letzten Gesetze haben unsere Wirtschaft stark wachsen gelassen, allerdings für einen hohen Preis für unsere Bürger" #duplicate loc key
+ COG_the_finest_goods:0 "Die Feinsten Güter"
+ COG_our_friend_in_france:0 "Unsere Freunde In Frankreich"
+ COG_our_friend_in_france_desc:0 ""
+# COG_massu_across_the_savannah_desc:0 "" #duplicate loc key
+ COG_the_ultimate_hunt:0 "Die Ultimative Jagd"
+ COG_the_ultimate_hunt_desc:0 ""
+ COG_the_most_dangerous_game:0 "Das Gefährlichste Spiel"
+ COG_the_most_dangerous_game_desc:0 ""
+ COG_make_some_friends:0 "Finde Ein Paar Freunde"
+ COG_make_some_friends_desc:0 ""
+ COG_akintola_on_the_safari:0 "Akintola auf der Safari"
+ COG_akintola_on_the_safari_desc:0 ""
+# COG_the_safari_beckons:0 "Die Safari winkt" #duplicate loc key
+# COG_the_safari_beckons_desc:0 "Wir sollten die Leute zu unserer Safari einladen, denn wenn sie erst einmal unsere tollen Tiere gesehen haben, werden sie sicher auch mit uns auf eine herrliche Jagd gehen wollen." #duplicate loc key
+# COG_through_the_jungle_desc:0 "Der Weg durch den Dschungel ist hart und sehr problematisch, aber die Männer sind stark und motiviert, sie werden es leicht schaffen." #duplicate loc key
+# COG_the_gorilla:0 "Der Gorilla" #duplicate loc key
+# COG_the_gorilla_desc:0 "Der Gorilla, groß und stark, wenn es 1 gegen 1 mit einem Gorilla ginge, wärst du ihm nicht gewachsen, zum Glück hast du eine Waffe." #duplicate loc key
+# COG_the_great_buffalo:0 "Der Große Büffel" #duplicate loc key
+# COG_the_great_buffalo_desc:0 "Der Große Büffel, schnell und mächtig, aber leicht zu jagen, gutes Training." #duplicate loc key
+# COG_across_the_savannah:0 "Entlang der Savanne" #duplicate loc key
+# COG_across_the_savannah_desc:0 "Die Savanne ist, wie ein großer Teil Zentralafrikas, ein gefährlicher Ort, und wenn wir versuchen, sie zu durchqueren, könnten wir einige unserer besten Männer verlieren, zum Glück haben wir ausgebildete Leute, die das Gebiet kennen." #duplicate loc key
+# COG_the_kudu:0 "Der Kudu" #duplicate loc key
+# COG_the_kudu_desc:0 "Der Kudu ist ein einzigartiges Tier mit großen Hörnern, das ein großartiges Ziel für die Jagd ist." #duplicate loc key
+# COG_the_noble_lion:0 "Der Noble Löwe" #duplicate loc key
+# COG_the_noble_lion_desc:0 "Der Löwe. König der Tiere, so hartes Ziel ist gute Erfahrung und schmeckt auch gut!" #duplicate loc key
+# COG_the_mighty_elephant:0 "Der Mächtige Elefant" #duplicate loc key
+# COG_the_mighty_elephant_desc:0 "" #duplicate loc key
+# COG_the_numerous_topi:0 "Die Zahlreichen Topi" #duplicate loc key
+# COG_the_numerous_topi_desc:0 "" #duplicate loc key
+# COG_the_illusive_cheetah:0 "Der Illusive Gepard" #duplicate loc key
+# COG_the_illusive_cheetah_desc:0 "" #duplicate loc key
+# COG_the_armored_pangolin:0 "Der Gepanzerte Pangolin" #duplicate loc key
+# COG_the_armored_pangolin_desc:0 "" #duplicate loc key
+ COG_hunt_with_schenck:0 "Jagd mit Schenck"
+ COG_hunt_with_schenck_desc:0 ""
+ COG_fly_across_the_congo:0 "Flug Entlang Des Kongo"
+ COG_fly_across_the_congo_desc:0 ""
+ COG_get_him_out_of_the_helicopter:0 "Hol Ihn Aus Dem Helikopter"
+ COG_get_him_out_of_the_helicopter_desc:0 ""
+ COG_maybe_ol_hans_wants_a_turn:0 "Vielleicht Will Der Alte Hans eine Runde Drehen"
+ COG_maybe_ol_hans_wants_a_turn_desc:0 ""
+ COG_give_our_african_boys_a_spin:0 "Drehe Mit Den Afrikanischen Jungs Eine Runde"
+ COG_give_our_african_boys_a_spin_desc:0 ""
+ COG_mulamba_under_the_wing:0 "Mulamba Unter Dem Flügel"
+ COG_mulamba_under_the_wing_desc:0 ""
+ COG_selling_off_the_people:0 "Verkaufen Des Volkes"
+ COG_selling_off_the_people_desc:0 ""
+ COG_the_mad_lads_of_the_congo:0 "Die Sauren Kerle Aus Kongo"
+ COG_the_mad_lads_of_the_congo_desc:0 ""
+ COG_arms_in_west_africa:0 "Waffen In Westafrika"
+ COG_arms_in_west_africa_desc:0 ""
+ COG_patrolling_the_south:0 "Patroullieren Im Süden"
+ COG_patrolling_the_south_desc:0 ""
+ COG_controlling_the_interior:0 "Kontrolle Im Inneren"
+ COG_controlling_the_interior_desc:0 ""
+ COG_control_the_boers:0 "Kontrolle der Böer"
+ COG_control_the_boers_desc:0 ""
+ COG_reinforce_the_south_african_army:0 "Verstärke die Südafrikanische Armee"
+ COG_reinforce_the_south_african_army_desc:0 ""
+ COG_our_enemies_closer:0 "Unsere Feinde Näher"
+ COG_our_enemies_closer_desc:0 ""
+ COG_corporate_men:0 "Firmenleute"
+ COG_corporate_men_desc:0 ""
+ COG_on_the_plantation:0 "Auf Der Plantage"
+ COG_on_the_plantation_desc:0 ""
+ COG_muscle_abroad:0 "Stärke Im Ausland"
+ COG_muscle_abroad_desc:0 ""
+ COG_all_for_a_dollar:0 "Alles Für Einen Dollar"
+ COG_all_for_a_dollar_desc:0 ""
+ COG_cheap_labor_is_good_labor:0 "Billige Arbeit Ist Gute Arbeit"
+ COG_cheap_labor_is_good_labor_desc:0 ""
+ COG_workers_permits:0 "Arbeitserlaubnisse"
+ COG_workers_permits_desc:0 ""
+ COG_technically_legal:0 "Theoretisch Legal"
+ COG_technically_legal_desc:0 ""
+# COG_business_ties:0 "Geschäftsbeziehungen" #duplicate loc key
+ COG_business_ties_desc:0 ""
+ COG_passed_with_a_stamp:0 "Mit Stempel Bestanden"
+# COG_for_the_company:0 "Für die Firma" #duplicate loc key
+ COG_for_the_company_desc:0 ""
+ COG_working_on_the_plantation:0 "Working On The Plantation"
+ COG_working_on_the_plantation_desc:0 ""
+# COG_state_leases:0 "Staatliche Pachtverträge" #duplicate loc key
+ COG_state_leases_desc:0 ""
+ COG_working_abroad:0 "Arbeit Im Ausland"
+ COG_working_abroad_desc:0 ""
+ COG_keeping_it_clean:0 "Sauber halten"
+ COG_keeping_it_clean_desc:0 ""
+ COG_the_anti_african_plan:0 "Der Anti-Afrikaner-Plan"
+ COG_the_anti_african_plan_desc:0 ""
+# COG_the_red_river_hog:0 "Das Rote Flussschwein" #duplicate loc key
+# COG_the_red_river_hog_desc:0 "" #duplicate loc key
+# COG_the_majestic_giraffe:0 "Die Majestätische Giraffe" #duplicate loc key
+# COG_the_majestic_giraffe_desc:0 "" #duplicate loc key
+ COG_mulambas_test:0 "Mulambas Test"
+ COG_mulambas_test_desc:0 ""
+ COG_addiction_to_the_hunt:0 "Jagdsucht"
+ COG_addiction_to_the_hunt_desc:0 ""
+ COG_the_biggest_ships:0 "Die Größten Schiffe"
+ COG_the_biggest_ships_desc:0 ""
+ COG_the_cheapest_prices:0 "Die Günstigsten Preise"
+ COG_the_cheapest_prices_desc:0 ""
+ COG_the_hub_of_africa:0 "Das Zentrum Afrikas"
+ COG_the_hub_of_africa_desc:0 ""
+ COG_clear_the_jungle:0 "Rode Den Djungel"
+ COG_clear_the_jungle_desc:0 "Die Rodung des Dschungels ist eine wichtige Arbeit, die wir leisten müssen. Danach können wir die Gebiete für militärische Zwecke nutzen, obwohl die Jagd immer noch das Beste ist, was man dort tun kann."
+ COG_clear_the_trash:0 "Säubern Des Abfalls"
+ COG_clear_the_trash_desc:0 ""
+ COG_anti_bandit_patrols:0 "Anti-Banditen-Patrouillen"
+ COG_anti_bandit_patrols_desc:0 ""
+ COG_the_most_noble_hunt:0 "Die Nobelste Jagd"
+ COG_the_most_noble_hunt_desc:0 ""
+ COG_anti_air_weaponry:0 "Luftabwehrbewaffnung"
+ COG_anti_air_weaponry_desc:0 ""
+ COG_the_cheapest_labor:0 "Die Günstigste Arbeit"
+ COG_the_cheapest_labor_desc:0 ""
+ ARK_south_african_war_catgeory:0 "Südafrikanischer Kriegsnotfall"
+ ARK_south_african_war_catgeory_desc:0 ""
+ ARK_rush_to_Kapstadt:0 "Eile Nach Kapstadt"
+ ARK_rush_to_Kapstadt_desc:0 "Angesichts des anhaltenden Zusammenbruchs Südafrikas ist es für uns an der Zeit, sie und ihre Verbündeten loszuwerden."
+ ARK_emergency_production:0 "Notfallproduktion"

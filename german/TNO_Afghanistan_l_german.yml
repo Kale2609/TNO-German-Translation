@@ -1,0 +1,116 @@
+﻿l_german:
+ AFG_mohammed_zahir_shah:0 "Mohammed Zahir Shah"
+ AFG_mohammad_daoud_khan:0 "Mohammad Daoud Khan"
+ AFG_abdulrahman_mahmudi:0 "Abdulrahman Mahmudi"
+ AFG_mawlana_qiamuddin_khadim:0 "Mawlana Qiamuddin Khadim"
+ AFG_muhammad_asif_ahang:0 "Muhammad Asif Ahang"
+ AFG_gul_pacha_ulfat:0 "Gul Pacha Ulfat"
+ AFG_ahmad_shah_khan:0 "Ahmad Shah Khan"
+ AFG_abdullah_yaqta:0 "Abdullah Yaqta"
+ AFG_abdul_zahir:0 "Abdul Zahir"
+ AFG_mohammad_musa_shafiq:0 "Mohammad Musa Shafiq"
+ AFG_abdul_majid_zabuli:0 "Abdul Majid Zabuli"
+ AFG_akram_yari:0 "Akram Yari"
+ AFG_faiz_ahmad:0 "Faiz Ahmad"
+ AFG_maulana_muhammad_ataullah_faizani:0 "Maulana Muhammad Ataullah Faizani"
+ AFG_muhammad_yusuf_khan:0 "Muhammad Yusuf Khan"
+ AFG_khalilullah_khalili:0 "Khalilullah Khalili"
+ AFG_ghulam_muhammad_farhad:0 "Ghulam Muhammad Farhad"
+ AFG_mir_muhammad_seddiq_farhang:0 "Mir Muhammad Seddiq Farhang"
+ AFG_muhammad_hashem_maiwandwal:0 "Muhammad Hashem Maiwandwal"
+ AFG_mohammad_noor_ahmad_etemadi:0 "Mohammad Noor Ahmad Etemadi"
+ AFG_tahir_badakshi:0 "Tahir Badakhshi"
+ AFG_muhammad_ibrahim_mojaddedi:0 "Muhammad Ibrahim Mojaddedi"
+ AFG_muhammad_nabi_mohammedi:0 "Mohammad Nabi Mohammedi"
+ AFG_burnahuddin_rabbani:0 "Burnahuddin Rabbani"
+ AFG_gholam_mohammad_niazi:0 "Gholam Mohammad Niazi"
+ AFG_hafizullah_amin:0 "Hafizullah Amin"
+
+ ###########
+ ##PARTIES##
+ ###########
+ AFG_communist_party:0 "JEN"
+ AFG_communist_party_long:0 "Jerian-e Demokratik-e Newin"
+ AFG_socialist_party:0 "HK"
+ AFG_socialist_party_long:0 "Hezb-e Khalq"
+ AFG_progressivism_party:0 "WD"
+ AFG_progressivism_party_long:0 "Wesh Dzalmian"
+ AFG_liberalism_party:0 "HW"
+ AFG_liberalism_party_long:0 "Hezb-e Watan"
+ AFG_liberal_conservatism_party:0 "WD"
+ AFG_liberal_conservatism_party_long:0 "Wesh Dzalmian"
+ AFG_conservatism_party:0 "IMT"
+ AFG_conservatism_party_long:0 "Islam Maktab-e Tauhid"
+ AFG_paternalism_party:0 "Lomri Wazir"
+ AFG_paternalism_party_long:0 "De Afghanistan Lomri Wazir"
+ AFG_despotism_party:0 "Barakzai Dynasty"
+ AFG_despotism_party_long:0 "Barakzai Dynasty"
+ AFG_national_socialism_party:0 "HDM"
+ AFG_national_socialism_party_long:0 "Hezb-e Demokrat-e Melli"
+ AFG_ultranationalism_party:0 "KF"
+ AFG_ultranationalism_party_long:0 "Khuddam ul-Furqan"
+ 
+ AFG_communist_party_dem:0 "SJM"
+ AFG_communist_party_dem_long:0 "Sazman-e Jawanan-e Mutaraqi"
+ AFG_socialist_party_dem:0 "HMDA"
+ AFG_socialist_party_dem_long:0 "Hezb-e Mutaraqi Demokrat-e Afghanistan"
+ AFG_SIZA_party_dem:0 "SIZA"
+ AFG_SIZA_party_dem_long:0 "Sazman-e Inqilab Zahmatkeshan Afghanistan"
+ AFG_progressivism_party_dem:0 "HDK"
+ AFG_progressivism_party_dem_long:0 "Hezb-e Demokrat-e Khalq"
+ AFG_liberalism_party_dem:0 "TWG"
+ AFG_liberalism_party_dem_long:0 "Tolenpal Wuluswak Gund"
+ AFG_conservatism_party_dem:0 "HT"
+ AFG_conservatism_party_dem_long:0 "Hezb-e Tawheed"
+ AFG_despotism_party_dem:0 "HMA"
+ AFG_despotism_party_dem_long:0 "Hezb-e Melli-ye Afghanistan"
+ AFG_ultranationalism_party_dem:0 "HII"
+ AFG_ultranationalism_party_dem_long:0 "Harakat-e Inqilab Islami"
+
+ AFG_communist_party_endgame:0 "GIKA"
+ AFG_communist_party_endgame_long:0 "Grup-e Inqilab Khalqha-ye Afghanistan"
+ AFG_paternalism_party_endgame:0 "HIM"
+ AFG_paternalism_party_endgame_long:0 "Hezb-e Ittehad-e Melli"
+ AFG_ultranationalism_party_endgame:0 "JI"
+ AFG_ultranationalism_party_endgame_long:0 "Jamiat-e Islami"
+
+ AFG_republic:0 "Republik von Afghanistan"
+ AFG_republic_DEF:0 "die Republik von Afghanistan"
+ AFG_republic_ADJ:0 "Afghanisch"
+
+ AFG_republic_amin:0 "Republik von Afghanistan"
+ AFG_republic_amin_DEF:0 "die Republik von Afghanistan"
+ AFG_republic_amin_ADJ:0 "Afghanisch"
+
+ AFG_mao:0 "Revolutionäre Republik von Afghanistan"
+ AFG_mao_DEF:0 "die Revolutionäre Republik von Afghanistan"
+ AFG_mao_ADJ:0 "Afghanisch"
+
+ AFG_islamist:0 "Islamischer Emirat von Afghanistan"
+ AFG_islamist_DEF:0 "der Islamischer Emirat von Afghanistan"
+ AFG_islamist_ADJ:0 "Afghanisch"
+ 
+ ################
+ ##LEADER DESCS##
+ ################
+ POLITICS_MOHAMMED_ZAHIR_SHAH_DESC:0 "Mohammad Zahir Shah wurde 1914 geboren und bestieg 1933 den Thron. Er regiert seit drei Jahrzehnten. In den ersten zwei Jahrzehnten ließ er seine Onkel als Premierminister unter ihm regieren – zunächst war da Sardar Mohammad Hashim Khan, der siebzehn Jahre lang bis zum Ende des Krieges despotisch regierte. Dann kam Sardar Mohammad Mahmud Khan, der Bruder seines Vorgängers, der die langsame Liberalisierung und die fortschrittliche Politik überwachte, bis sich politische Parteien bildeten, die afghanische Wirtschaft destabilisiert wurde und Mahmud Khans Bewässerungsprojekte scheiterten. Im Jahr 1953 kam schließlich sein Cousin Daoud Khan, der die Massenentwicklung und Modernisierung leitete, finanziert durch ausländische Hilfe.\n\nAber die Geschichte von Zahir Shah beschränkte sich nicht auf Afghanistan selbst. Der Sturz der russischen Kommunisten brachte Deutsche und Japaner dazu, ihre Position als wichtigste Geldgeber Afghanistans einzunehmen und 40 % des afghanischen Haushalts zu finanzieren – eine große Summe im Vergleich zu den 7 % der Steuereinnahmen, die durch die Land- und Landwirtschaftssteuer erzielt werden.\n\nIhre Die Unterstützung und die erfolgreiche Ausnutzung ausländischer Ereignisse durch Zahir Shah ermöglichten es Afghanistan, eine regionale Macht mit wohlkalkulierten Invasionen und diplomatischen Schachzügen zu werden: Angriffe auf die Tadschiken bis zum Shakhdara-Fluss, Unterstützung der Invasion der Turkestan-Legionäre, Schutz der Muslimliga usw Jinnah von ihren Feinden in Delhi zu vertreiben und die entstehende pakistanische Armee auf einen Schlag zu schwächen. Durch Jinnahs Tod erhielt Afghanistan zwei Protektorate, Zugang zum Meer und kam dem Traum von Paschtunistan einen Schritt näher. Das Sahnehäubchen: Auf einen Schlag Kalkutta als Regierung Indiens anzuerkennen, Tokio zu gefallen und Delhi wütend zu machen.\n\nMit seinem Cousin als seiner rechten Hand und der Konsolidierung der tadschikischen Länder glaubt Zahir Shah, er stehe an der Spitze der Welt. Doch seine Herrschaft ist bedroht: Die politischen Bewegungen nehmen zu, Delhi, Zentralasien und Xinjiang bereiten sich auf Rache, und die Gönner Afghanistans geraten ins Chaos. Schlimmer noch: Der König merkt, dass sein Cousin, der Ministerpräsident, größere Ambitionen hat als nur loyale Dienste. Aber der König hat größere Sorgen: Er muss ein weiteres Jahrzehnt voller Erfolg bringen, damit es ihm und Afghanistan noch mehr gedeihen kann."
+ 
+ #############
+ ##MINISTERS##
+ #############
+ 
+ #########
+ ##IDEAS##
+ #########
+
+ AFG_The_Split_Pashtunkhwa:0 "Die Geteilten Pashtunkhwa"
+ AFG_The_Split_Pashtunkhwa_desc:0 "Trotz Erfolgen in den 50er Jahren gegen die indische Einheitsregierung und in Zentralasien bleibt die Frage nach „Paschtunistan“ als Konzept ungelöst. Die Entscheidung von Zahir Shah, in Belutschistan einzumarschieren und der pakistanischen Bewegung nach der Ausrufung des Ausnahmezustands in den Westprovinzen durch Delhi einen sicheren Zufluchtsort zu bieten, führte zu einer Teillösung: der Durchbruch der Durand-Linie und die Annexion von Quetta und Nord-Belutschistan. Danach erfolgte die Gründung der FPCA und die Unterordnung des Khanats Kalat, nachdem sich afghanische Streitkräfte mit pakistanischen Streitkräften (die die meiste Arbeit geleistet hatten) zusammenschlossen, um die Einheitsregierung am Tor zu halten.\n\nHeute begünstigt der Status quo die Afghanen Zustand. Aber es braut sich Ärger zusammen. Unzufriedenheit und anhaltende Zusammenstöße in den neuen Ländern, Feindseligkeit gegenüber Delhi und die entschiedene paschtunische nationalistische Haltung von Daoud Khan lassen Afghanistan keine andere Wahl, als diese tickende Zeitbombe ein für alle Mal zu entschärfen – oder sie explodieren zu lassen und die Kosten zu tragen."
+
+ AFG_Gateways_Between_Worlds:0 "Tore Zwischen Welten"
+ AFG_Gateways_Between_Worlds_desc:0 "Während der Amtszeit von Premierminister Sardar Mohammad Hashim Khan erreichten die Beziehungen zwischen der afghanischen Achse und der afghanischen Achse historische Höchststände. Nicht einmal die Ablösung durch seinen Bruder im Jahr 1946 konnte das verhindern; Die anhaltende Pro-Achsen-Stimmung und die Hilfe beider neuer Großmächte strömten in die Nation. Erst die Spaltung der Achsenmächte in den Einheitspakt und die Kyōeiken konnte sie wirklich destabilisieren. Diese Spaltung brachte die Afghanen in die missliche Lage, immer noch von beiden Partnerschaften zu profitieren, von beiden aber zu weit entfernt zu sein, um den vollen Nutzen daraus ziehen zu können.\n\nEs gibt viele erschwerende Faktoren. Afghanistan diente der Turkestan-Legion und der Pakistan-Bewegung als Tor nach Zentralasien. Die Einmischung in beide Regionen sicherte Afghanistans Rolle als Regionalmacht, radikalisierte sie jedoch alle in antiafghanische Feindseligkeit; Das Einzige, was die Zerstörung Kabuls verhinderte, waren die immer noch heftigen internen Konflikte in beiden Gebieten. In der näheren Umgebung jedoch bedrohen aufkeimende marxistische und reformistische Einflüsse von allen Seiten – Zentralasien, Xinjiang, Iran – die monarchistische Ordnung, indem sie die politische Debatte und den Kampf in Afghanistan beeinflussen.\n\nDiese Widersprüche werden vorerst dank der innenpolitischen Stabilität gemildert . Wenn diese Probleme jedoch zu einem ungünstigen Zeitpunkt erneut auftauchen, könnten sie Afghanistan durchaus in die Knie zwingen."
+
+ AFG_The_Two_Mohammeds:0 "Die Zwei Mohammeds"
+ AFG_The_Two_Mohammeds_desc:0 "„Die zwei Mohammeds“, ein informeller Spitzname für die beiden Cousins, den König von Afghanistan und seinen Premierminister, stehen seit einem Jahrzehnt im Mittelpunkt der afghanischen Politik.\n\nDort oben sitzt der reformistische, samtbehandschuhte Mohammad Zahir Shah ; Seine Anhänger sind Neutralisten, Gemäßigte, Konservative, Traditionalisten, Aristokraten sowie Usbeken und Tadschiken. Unter ihm steht der eiserne Modernist Mohammad Daoud Khan, der Liebling der Germanophilen und Japanophilen und Freund aller paschtunischen Nationalisten und radikalen Modernisierer.\n\nAls drittes Jahrzehnt der Herrschaft des Königs und das erste Jahrzehnt von Daoud Khans Amtszeit als Premierminister Annäherung an, ihre einst freundschaftliche Beziehung beginnt, deutliche Kluften zu zeigen. Die unterschiedlichen Standpunkte und Unterstützergruppen des Königs und seines Regierungschefs verwickeln sie in einen Machtkampf, der sich langsam auch auf ihr eigenes Land auswirkt. Während beide nach Stabilität für ihre Nation streben, könnte der Ausgang ihres mörderischen Konflikts durchaus verhindern, dass dies das Endergebnis ist."
+
+ AFG_Embryonic_Political_Structures:0 "Embryonische Politische Strukturen"
+ AFG_Embryonic_Political_Structures_desc:0 "Sardar Mohammad Hashim Khan regierte als Premierminister siebzehn Jahre lang hart und unterdrückte Presserechte und Veröffentlichungen, sobald Imame in den örtlichen Moscheen den Namen Allahs aussprachen. Zahir Shah, der eine fortschrittlichere Richtung anstrebte, ersetzte ihn 1946 durch seinen Bruder Mahmud. Das Ergebnis war eine langsame Liberalisierung und eine Lockerung der Zensur – was wiederum ein politisches Erwachen auslöste.\n\nDie Bewegung Wesh Dzalmian, Erwachte Jugend, entstand 1947 und trat 1949 der Wolesi Jirga bei. Im Gegensatz zur Regierung entstand trotz politischer Spaltungen eine Einheitsfront namens Jebha-ye Melli, Nationale Front. Wesh Dzalmian wurde eine Partei; Ghubars Männer gründeten die Hezb-e Watan (Vaterlandspartei), während Mahmudi die Hezb-e Khalq, die Volkspartei, gründete.\n\nDie Reaktion der Regierung bestand darin, alle drei Parteien und Veröffentlichungen zu unterdrücken; Heute sind sie im Untergrund und verbreiten zweifelhafte Berichte, die ihre Existenz und die anderer bestätigen sollen. Der Beitritt von Daoud Khan im Jahr 1953 beschleunigte diesen Trend, unterstützt durch den pakistanischen und transoxanischen Konflikt. Doch die derzeitige Desorganisation ist nur vorübergehender Natur: Wenn die Parteien wieder auftauchen, werden sie härter und stärker – und organisierter – sein."
