@@ -1,0 +1,33 @@
+﻿l_english:
+ BOP_BUTTON:0 "Außenpolitik"
+ BOP_TOOLTIP:1 "§FKlicken Sie, um §YDiplomatie§!, §YGlobale Konflikte§! und Ihren §YNachrichtendienst§! zu verwalten.§!"
+ BOP_TAB_BUTTON_tt:0 "[?Tab_v.GetTokenLocalizedKey]"
+ TNO_GlobalConflicts_GUI_Title:0 "Globale Konflikte"
+ TNO_BoP_AddTab_tt:0 "Der §W[?TabName.GetTokenLocalizedKey]§! ist jetzt im Menü §BAußenpolitik§! verfügbar.\n"
+
+ # Dummy ideas
+ BoP_Tab_Espionage:0 "Geheimdienst"
+ BoP_Tab_GlobalConflicts:0 "Globale Konflikte"
+ BoP_Tab_SACW:0 "Kalter Krieg in Südamerika"
+
+ ## Useless vanilla stuff
+ BOP_TOOLTIP_TREND:0 ""
+ BOP_TOOLTIP_STABLE:1 ""
+ BOP_LEFT_SIDE_TOOLTIP:0 "[root.GetLeftSideName]"
+ BOP_RIGHT_SIDE_TOOLTIP:0 "[root.GetRightSideName]"
+ BOP_ACTIVE_RANGE_DESC:0 "[root.GetActiveRangeName]"
+ BOP_ACTIVE_RANGE_TOOLTIP:0 "[root.GetActiveRangeModDesc][root.GetActiveRangeRuleDesc]"
+
+ BOP_CHANGE_RATE_DAILY:2 "$VALUE|2%H$ pro Tag"
+ BOP_CHANGE_RATE_WEEKLY:2 "$VALUE|2%H$ pro Woche"
+
+ BOP_RANGE_DESC:0 "$NAME|Y$\nBereich: $MIN|%Y$ - $MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
+ BOP_RANGE_MODIFIER:0 "§YModifikatoren:§!\n$DESC$"
+ BOP_RANGE_RULE:0 "§YRegeln:§!\n$DESC$"
+ BOP_RANGE_ACTIVATION_EFFECT:0 "\n§YAktivierungseffekt:§!\n$DESC$"
+ BOP_RANGE_DEACTIVATION_EFFECT:0 "\n§YDeaktivierungseffekt:§!\n$DESC$"
+ 
+ BOP_PERCENTAGE:0 "$VALUE|0%$"
+ BOP_LEVELS:0 "$UNLOCKED$/$TOTAL$"
+ 
+ BOP_STATIC_MODIFIER:0 "$NAME|H$"
