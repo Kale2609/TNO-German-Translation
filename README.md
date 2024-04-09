@@ -1,7 +1,7 @@
 The current status of the Mod is "in progress".
 
-Translated 21 / 528 files.
-( 231 / 59.500 KB )
+Translated 22 / 528 files.
+( 323 / 59.500 KB )
 
 In it's current state it is not playable, you will get an infinite loading error or CTD.
 
